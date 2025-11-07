@@ -1,0 +1,1002 @@
+EmployeeID,FirstName,LastName,Department,Role,HireDate,TerminationDate,Gender,Location,Salary,Bonus,StockOptions,PerformanceRating,Promotion,EngagementScore,ManagerRating,Attrition,TenureInDays
+E1023,Claude,Renard,Engineering,Senior Accountant,2016-01-24,,Unknown,Nantes,199042,6642.06,1200,3,No,3,6,0,3571
+E1647,Joséphine,Riou,Finance,Senior Accountant,2019-02-08,,Female,Bordeaux,84362,3984.27,200,3,No,9,3,0,2460
+E1941,Stéphane,Rocher,Sales,Analyst,2021-06-26,,Unknown,Bordeaux,232090,10044.19,200,4,No,8,3,0,1591
+E1695,Alix,Chauvin,Unknown,VP of Sales,2016-09-21,,Female,Bordeaux,193920,5380.39,500,,Yes,3,5,0,3330
+E1584,Vincent,Gonzalez,Engineering,Digital Marketing Analyst,2022-08-27,2023-12-10,Female,Paris,178481,7453.43,500,3,No,6,10,1,470
+E1565,Clémence,Rivière,Engineering,Customer Success Manager,2017-09-04,,NaN,Lyon,61284,2606.61,1000,5,No,5,1,0,2982
+E1964,Gilbert,Dumas,Engineering,Specialist,2017-07-06,,Male,Bordeaux,248696,10122.58,500,5,Yes,10,6,0,3042
+E1271,Alexandre,Charpentier,Unknown,Regional Sales Director,2022-10-26,,Non-Binary,Remote,245162,5306.31,200,5,No,5,1,0,1104
+E1486,Étienne,Lefèvre,Unknown,People Analyst,2018-09-29,,Male,Paris,186889,7924.92,1200,3,No,5,2,0,2592
+E1371,Henriette,Aubry,Engineering,Inside Sales Rep,2022-09-14,,Male,Bordeaux,110956,2934.76,0,2,No,4,3,0,1146
+E1197,Hélène,Garnier,Unknown,Associate,2020-06-02,,Unknown,Nantes,247814,11343.98,1200,,,4,3,0,1980
+E1989,Susan,Robin,Finance,Senior Accountant,2018-01-11,,Female,Paris,118710,5064.17,0,1,Yes,9,4,0,2853
+E1531,Roger,Dumont,Engineering,Coordinator,2024-05-27,,Female,Lyon,138445,3765.72,500,,,5,5,0,525
+E1479,Océane,Gomes,Marketing,Inside Sales Rep,2017-03-30,,Non-Binary,Lyon,144466,3695.25,500,,No,4,9,0,3140
+E1280,Audrey,Monnier,Engineering,Regional Sales Director,2017-06-11,,Unknown,Paris,115292,5092.56,500,1,No,1,10,0,3067
+E1380,Zacharie,Joly,Human Resources,Controller,2023-07-28,2025-01-03,Non-Binary,Lyon,162903,8038.55,200,,Yes,7,9,1,525
+E1613,Daniel,Navarro,Human Resources,DevOps Engineer,2016-02-22,,Male,Nantes,97348,4555.92,1000,,Yes,1,6,0,3542
+E1078,Agnès,Legendre,Unknown,Account Executive,2020-06-11,2021-06-15,Male,Nantes,213618,10066.71,1200,1,No,10,5,1,369
+E1190,Amélie,Deschamps,Human Resources,VP of Sales,2017-01-23,,Female,Montpellier,222633,7075.04,0,4,No,10,5,0,3206
+E1610,Geneviève,Roux,Sales,Payroll Specialist,2022-06-04,,NaN,Paris,234626,9261.81,200,,,9,10,0,1248
+E1257,Thérèse,Lenoir,Finance,HR Business Partner,2015-11-04,,Unknown,Montpellier,126545,6108.97,200,3,No,4,1,0,3652
+E1948,Bernadette,Legrand,Engineering,Associate,2019-01-12,,NaN,Remote,202304,9535.85,500,,,7,10,0,2487
+E1933,Isaac,Dupont,Human Resources,Senior Software Engineer,2020-04-12,,Unknown,Paris,244560,5260.35,1000,2,Yes,4,7,0,2031
+E1332,Adélaïde,Riou,Engineering,Marketing Manager,2020-08-11,,NaN,Lyon,120655,5870.99,500,5,Yes,8,5,0,1910
+E1523,Luc,Aubert,Human Resources,Analyst,2022-04-07,,NaN,Remote,143615,2890.74,0,5,No,1,9,0,1306
+E1090,Chantal,Sanchez,Sales,Account Executive,2017-05-10,,Non-Binary,Remote,177933,6957.63,500,2,No,8,9,0,3099
+E1500,Patricia,Vallée,Marketing,HR Data Scientist,2024-02-03,,NaN,Lyon,188997,5648.65,200,,,2,9,0,639
+E1073,Christelle,Legros,Sales,Account Executive,2017-11-30,,Unknown,Remote,51591,1538.8,500,,,8,10,0,2895
+E1180,Gabriel,Jacques,Sales,People Analyst,2024-08-14,,Unknown,Montpellier,46629,1448.16,1200,3,No,6,4,0,446
+E1062,Victor,Chrétien,Sales,FP&A Manager,2020-09-30,,Male,Montpellier,173701,3873.3,500,5,No,10,5,0,1860
+E1541,Zoé,Collin,Finance,Coordinator,2018-05-25,,Non-Binary,Bordeaux,204490,6778.3,1200,,Yes,2,5,0,2719
+E1853,Marcel,Julien,Human Resources,Controller,2017-03-01,2021-05-01,Unknown,Remote,154174,6362.23,200,,No,6,8,1,1522
+E1400,Gabriel,Bonnin,Sales,FP&A Manager,2020-09-24,2023-04-09,Non-Binary,Bordeaux,211617,6494.59,1200,,,8,5,1,927
+E1372,Margaux,Blanc,Engineering,Financial Analyst,2019-10-30,,Non-Binary,Remote,141785,3310.22,500,3,No,8,4,0,2196
+E1922,Laurent,Roche,Sales,Payroll Specialist,2020-12-27,,NaN,Lyon,140277,4341.24,200,5,No,9,6,0,1772
+E1317,Christophe,Toussaint,Human Resources,Associate,2022-12-07,2024-11-24,NaN,Lyon,115851,2433.22,1200,,,1,3,1,718
+E1934,Adrienne,Collin,Engineering,HR Data Scientist,2016-06-30,2018-12-31,Non-Binary,Remote,248052,8419.04,500,3,No,6,4,1,914
+E1786,Camille,Salmon,Human Resources,Product Marketing Manager,2024-10-09,,Non-Binary,Montpellier,159840,6379.21,1000,,,1,3,0,390
+E1646,Alexandrie,Dumas,Sales,Sales Manager,2024-04-01,,Unknown,Lyon,238180,11490.77,200,1,No,5,7,0,581
+E1097,Nathalie,Da Costa,Finance,QA Engineer,2023-02-28,2024-12-07,Unknown,Nantes,137957,4868.44,1000,1,No,8,4,1,648
+E1658,Alfred,Jacquot,Engineering,Data Scientist,2023-12-29,,NaN,Nantes,233770,10030.47,500,,,6,9,0,675
+E1461,Pierre,Dufour,Finance,Associate,2018-08-04,,Non-Binary,Lyon,97691,2560.27,1000,,,5,8,0,2648
+E1534,Laure,Bouvet,Engineering,Internal Auditor,2018-01-07,,Female,Remote,223988,8992.03,500,3,No,5,1,0,2857
+E1980,Maryse,Guillet,Marketing,HR Business Partner,2016-10-24,2019-09-10,Male,Bordeaux,107411,2502.44,500,,Yes,9,9,1,1051
+E1117,Éléonore,Ruiz,Human Resources,QA Engineer,2022-10-16,,Unknown,Nantes,199859,9148.8,1200,3,No,5,8,0,1114
+E1410,Bertrand,Simon,Finance,People Analyst,2023-06-19,2024-08-23,Female,Remote,138165,4479.56,1000,2,No,2,10,1,431
+E1406,Claude,Moreno,Engineering,Sales Manager,2019-09-29,,Non-Binary,Nantes,65335,2572.39,500,2,Yes,5,9,0,2227
+E1133,Inès,Costa,Human Resources,FP&A Manager,2019-04-25,2021-08-16,Female,Remote,123076,5413.59,0,3,No,10,2,1,844
+E1822,Gérard,Regnier,Finance,Analyst,2022-12-01,2024-02-23,Male,Montpellier,171074,5095.16,500,3,No,2,6,1,449
+E1206,Céline,Dias,Human Resources,Product Marketing Manager,2016-05-25,2020-08-21,Unknown,Nantes,237949,6746.44,1000,2,No,7,1,1,1549
+E1418,Noël,Picard,Sales,Solutions Engineer,2022-02-10,,NaN,Paris,236170,6587.57,1200,,Yes,6,6,0,1362
+E1651,Sabine,Jacques,Marketing,Content Strategist,2019-07-08,,Non-Binary,Lyon,135723,6710.38,200,,,8,1,0,2310
+E1752,Roger,Gautier,Engineering,HR Data Scientist,2020-12-21,,Unknown,Bordeaux,45436,1923.16,0,3,No,3,2,0,1778
+E1475,Théophile,Guillaume,Unknown,Associate,2023-05-13,,Unknown,Paris,242380,9704.04,0,,,2,1,0,905
+E1924,Émile,Gilbert,Human Resources,Sales Development Rep,2016-01-09,,Unknown,Bordeaux,60240,2351.55,1000,,,5,2,0,3586
+E1255,Maggie,Pineau,Human Resources,Accountant,2022-12-03,,Unknown,Paris,182239,6900.24,200,,Yes,1,3,0,1066
+E1617,Matthieu,Lebrun,Finance,Senior Accountant,2016-07-02,2020-11-22,Female,Paris,183365,4708.96,200,5,No,5,6,1,1604
+E1487,Océane,Maillard,Human Resources,Controller,2022-09-03,,NaN,Nantes,124843,3795.55,500,,No,2,8,0,1157
+E1847,François,Bazin,Finance,Analyst,2015-12-03,2025-02-28,Female,Lyon,186343,7859.29,1200,2,No,8,8,1,3375
+E1760,Marianne,David,Engineering,Customer Success Manager,2018-12-15,,Female,Bordeaux,153298,6440.32,500,,Yes,5,6,0,2515
+E1650,Henriette,Roux,Marketing,Analyst,2023-03-11,,Unknown,Nantes,182761,4550.12,0,3,No,10,5,0,968
+E1004,Pénélope,Maurice,Sales,Specialist,2023-05-08,,Unknown,Montpellier,152998,3348.8,1200,4,Yes,2,10,0,910
+E1187,Yves,Fleury,Finance,Solutions Engineer,2023-12-13,,NaN,Montpellier,69089,2444.55,0,1,No,1,1,0,691
+E1840,Guillaume,Munoz,Finance,Solutions Engineer,2018-11-06,,Unknown,Bordeaux,170111,3860.75,1000,,,6,6,0,2554
+E1706,Nicole,Joly,Human Resources,HR Machine Learning Engineer,2017-04-25,,NaN,Paris,121121,2884.33,200,5,No,9,2,0,3114
+E1871,Laetitia,Bodin,Human Resources,Controller,2022-12-11,,Female,Remote,244476,11301.79,1200,,,10,10,0,1058
+E1837,Margaux,Turpin,Marketing,Technical Lead,2024-05-26,,Unknown,Paris,165024,7448.61,1200,,,2,10,0,526
+E1124,Alain,Gonzalez,Engineering,Social Media Manager,2022-10-27,,Unknown,Bordeaux,224766,10998.05,0,,,1,6,0,1103
+E1264,Robert,Seguin,Engineering,Backend Engineer,2022-09-26,,Unknown,Nantes,229537,8462.67,1200,4,No,3,7,0,1134
+E1130,Simone,Perrot,Sales,FP&A Manager,2019-07-25,,Non-Binary,Paris,44612,956.16,1000,,,1,8,0,2293
+E1653,Laure,Pineau,Human Resources,Senior Software Engineer,2018-05-03,,Non-Binary,Lyon,242933,10049.51,0,3,Yes,5,1,0,2741
+E1353,Célina,Boutin,Sales,Account Executive,2016-11-29,,NaN,Remote,113729,2509.4,1200,,,3,2,0,3261
+E1163,Margaux,Grégoire,Finance,Data Scientist,2024-02-12,,Unknown,Bordeaux,183167,8377.0,1200,3,No,6,9,0,630
+E1439,Gilbert,Marchal,Engineering,People Analyst,2017-10-12,,Unknown,Nantes,132378,5176.21,1200,4,No,4,2,0,2944
+E1379,Josette,Legros,Human Resources,Data Scientist,2017-05-31,,Female,Montpellier,45236,2121.4,1000,,No,10,4,0,3078
+E1044,Anastasie,Andre,Sales,Sales Development Rep,2017-03-09,,Female,Bordeaux,180792,6060.37,1000,5,No,9,7,0,3161
+E1250,Sylvie,Guillot,Engineering,Product Marketing Manager,2024-06-19,2025-10-23,Male,Lyon,176778,7833.15,500,5,Yes,1,9,1,491
+E1851,Jérôme,Valentin,Sales,Compensation Analyst,2021-04-25,,Unknown,Remote,188271,5474.84,200,3,Yes,2,2,0,1653
+E1524,Christiane,Pinto,Engineering,Marketing Manager,2017-04-01,,Unknown,Paris,112678,4382.47,200,,,6,7,0,3138
+E1974,Matthieu,Adam,Sales,Controller,2018-07-14,2025-08-17,Female,Remote,222337,6213.13,1000,1,No,7,6,1,2591
+E1923,Émile,Blin,Finance,HR Data Scientist,2020-06-11,,Female,Remote,190645,6892.33,1000,5,No,1,4,0,1971
+E1984,Roland,Benard,Human Resources,Machine Learning Engineer,2024-05-09,2025-10-12,Female,Montpellier,242588,7985.46,0,2,No,1,4,1,521
+E1245,Éric,Seguin,Marketing,Digital Marketing Analyst,2017-09-18,,Unknown,Bordeaux,61963,1759.65,1000,3,No,1,3,0,2968
+E1172,Henriette,Barre,Engineering,Controller,2024-06-23,,Female,Montpellier,40627,938.56,1000,,,2,10,0,498
+E1204,Louis,Lamy,Finance,Accountant,2023-03-03,,Unknown,Nantes,136022,4074.04,1200,4,No,8,3,0,976
+E1616,Michèle,Gautier,Sales,Coordinator,2020-01-03,,NaN,Remote,144153,3606.5,1000,,,8,10,0,2131
+E1780,Simone,Barre,Sales,Financial Analyst,2022-03-17,,Non-Binary,Remote,245273,10296.9,1200,2,No,3,6,0,1327
+E1697,Alex,Gimenez,Finance,Sales Manager,2019-05-07,2025-09-01,Female,Paris,90714,1906.38,1200,,No,2,8,1,2309
+E1526,Olivier,Paris,Sales,Machine Learning Engineer,2022-03-24,,Unknown,Paris,127465,3625.11,1200,,,10,3,0,1320
+E1627,Guy,Mahe,Marketing,Machine Learning Engineer,2020-05-07,,Unknown,Bordeaux,53212,1413.4,0,5,No,7,9,0,2006
+E1605,Stéphanie,Dumont,Human Resources,Regional Sales Director,2015-12-20,,Male,Lyon,218605,8501.93,500,,,2,8,0,3606
+E1927,Philippe,Devaux,Human Resources,Customer Success Manager,2018-06-04,,NaN,Nantes,65950,2201.86,0,5,No,6,9,0,2709
+E1345,Nicolas,Nguyen,Human Resources,Regional Sales Director,2018-09-06,2025-08-31,Unknown,Bordeaux,111932,2950.92,1200,3,No,2,8,1,2551
+E1241,Capucine,Lombard,Sales,Solutions Engineer,2016-02-19,,Male,Remote,222743,10427.01,1000,2,No,2,10,0,3545
+E1236,Louise,Descamps,Sales,Sales Development Rep,2016-05-02,,Male,Remote,174135,5851.27,1200,3,No,4,10,0,3472
+E1508,Lucas,Blanc,Engineering,QA Engineer,2022-08-16,2024-01-28,Unknown,Nantes,192887,8760.14,0,,No,8,8,1,530
+E1160,Lorraine,Boulanger,Finance,People Analyst,2024-07-12,,Male,Paris,75053,2743.79,1000,3,No,4,1,0,479
+E1243,Stéphane,Toussaint,Engineering,Product Marketing Manager,2017-01-31,2021-08-13,NaN,Nantes,46373,1478.01,1200,,No,2,7,1,1655
+E1239,Nath,Didier,Human Resources,Internal Auditor,2019-04-01,,Non-Binary,Paris,134911,3815.25,200,3,Yes,8,2,0,2408
+E1010,Chantal,Gérard,Finance,Product Marketing Manager,2022-08-17,2025-03-15,Unknown,Montpellier,77355,1580.32,0,,,10,6,1,941
+E1419,Anaïs,Daniel,Sales,Customer Success Manager,2023-11-07,,Unknown,Paris,242823,11521.3,0,,No,8,5,0,727
+E1811,Eugène,Hoarau,Finance,Backend Engineer,2018-04-05,,Female,Montpellier,249847,5486.35,1000,,,4,10,0,2769
+E1875,Sophie,Joseph,Finance,Customer Success Manager,2021-11-29,,Female,Remote,130442,4495.8,1000,,,10,5,0,1435
+E1607,Alexandria,Humbert,Sales,FP&A Manager,2019-09-28,2023-03-09,Unknown,Montpellier,216181,9688.81,0,1,No,1,7,1,1258
+E1170,Laurence,Leclercq,Sales,Account Executive,2019-09-11,2024-04-22,Female,Montpellier,46126,1937.35,0,1,Yes,3,3,1,1685
+E1138,Martin,Garnier,Sales,Compensation Analyst,2024-02-05,,Non-Binary,Montpellier,228579,9885.17,0,,,6,9,0,637
+E1553,Olivier,Aubert,Human Resources,Inside Sales Rep,2024-04-15,2025-09-02,Male,Nantes,60923,3015.26,500,5,No,1,1,1,505
+E1775,Luce,Martinez,Engineering,Sales Development Rep,2018-10-29,2025-10-13,Male,Montpellier,143224,7027.97,200,,,8,1,1,2541
+E1045,Bernard,Muller,Human Resources,Graphic Designer,2017-01-29,2025-05-29,Non-Binary,Paris,112836,5139.7,200,3,No,2,7,1,3042
+E1874,Sébastien,Hervé,Human Resources,DevOps Engineer,2018-06-14,,Unknown,Remote,117210,4436.17,1000,,Yes,9,9,0,2699
+E1167,Pénélope,Faivre,Human Resources,Customer Success Manager,2021-09-14,2025-09-02,Unknown,Nantes,192789,9115.49,1000,,No,7,2,1,1449
+E1184,Henri,Tessier,Engineering,Controller,2023-12-21,,Female,Lyon,221600,6171.67,0,1,No,5,10,0,683
+E1126,Louis,Weber,Finance,Internal Auditor,2018-06-30,,Unknown,Lyon,52241,1792.11,0,2,No,4,2,0,2683
+E1711,Jacqueline,Hardy,Sales,Account Executive,2021-01-14,,Unknown,Remote,172281,3956.47,200,4,Yes,4,5,0,1754
+E1157,Célina,Philippe,Human Resources,Technical Lead,2018-12-29,,Non-Binary,Paris,186975,5815.1,1000,5,No,9,10,0,2501
+E1147,Vincent,Mercier,Finance,Coordinator,2022-11-04,,Unknown,Paris,114569,3375.31,1200,3,Yes,6,5,0,1095
+E1402,Robert,Carlier,Engineering,Inside Sales Rep,2021-11-07,2025-02-22,Female,Bordeaux,179055,5336.42,0,3,No,3,7,1,1203
+E1570,Yves,Chrétien,Finance,Accountant,2018-02-20,,Unknown,Montpellier,152777,3837.85,200,,,7,9,0,2813
+E1331,Simone,Collet,Human Resources,Sales Development Rep,2020-02-21,,Non-Binary,Paris,244256,10571.82,500,2,No,10,3,0,2082
+E1783,Jeannine,Raymond,Finance,Financial Analyst,2022-12-02,,Non-Binary,Remote,148516,3927.68,500,2,Yes,8,5,0,1067
+E1628,Emmanuel,Faivre,Engineering,Inside Sales Rep,2022-03-02,,NaN,Paris,242313,5554.42,1200,3,No,7,4,0,1342
+E1141,Élisabeth,Arnaud,Finance,People Analyst,2019-03-28,,Unknown,Paris,221584,7467.21,1200,3,No,4,5,0,2412
+E1183,Margot,Bailly,Finance,VP of Sales,2021-07-06,,Female,Bordeaux,83468,3341.32,0,4,No,6,10,0,1581
+E1240,Martine,Maillet,Finance,SEO Specialist,2018-07-03,2025-08-30,Non-Binary,Nantes,183545,6834.25,0,2,No,4,5,1,2615
+E1662,Alex,Blin,Finance,Frontend Engineer,2023-04-18,2024-09-21,Male,Bordeaux,191072,7607.5,0,,,6,5,1,522
+E1606,Agathe,Gautier,Finance,Senior Accountant,2022-07-04,,Non-Binary,Nantes,89758,3043.49,1000,5,No,10,7,0,1218
+E1545,Daniel,Gomes,Sales,Sales Development Rep,2023-01-16,,Non-Binary,Remote,170780,7668.9,1000,1,No,2,5,0,1022
+E1019,Nicole,Morvan,Human Resources,Software Engineer,2016-07-18,,Non-Binary,Nantes,166731,4893.8,200,5,Yes,9,5,0,3395
+E1020,Madeleine,Olivier,Human Resources,VP of Sales,2024-10-28,2025-10-29,Non-Binary,Remote,184141,6912.38,1000,4,No,4,2,1,366
+E1275,Thérèse,Blanchet,Sales,HR Coordinator,2022-11-09,2025-05-16,Male,Montpellier,164371,4974.15,1000,,No,5,2,1,919
+E1821,Noël,Parent,Human Resources,Customer Success Manager,2015-12-26,,Female,Montpellier,242280,12009.47,1000,,,2,5,0,3600
+E1346,Alex,Guillet,Sales,Marketing Manager,2016-09-09,,NaN,Nantes,45218,954.32,1000,,Yes,2,1,0,3342
+E1081,Marguerite,Coste,Engineering,People Analyst,2022-08-01,2024-05-12,Unknown,Lyon,48517,1391.22,200,5,No,8,9,1,650
+E1889,François,Clément,Human Resources,People Analyst,2021-01-20,2023-01-18,Male,Nantes,216424,7626.44,200,,,2,4,1,728
+E1457,Jacques,Baudry,Sales,Regional Sales Director,2016-02-07,,NaN,Lyon,57656,2860.56,1200,1,No,2,5,0,3557
+E1750,Étienne,Brun,Human Resources,Sales Development Rep,2016-04-17,,Non-Binary,Bordeaux,75252,2022.57,0,,,5,6,0,3487
+E1428,Alexandrie,Gonzalez,Engineering,Sales Manager,2022-11-30,,Male,Lyon,139942,6026.91,200,,,4,5,0,1069
+E1963,Émilie,Lambert,Sales,Customer Success Manager,2018-03-07,2022-07-23,Unknown,Lyon,79141,2936.98,500,2,No,7,1,1,1599
+E1795,Geneviève,Fouquet,Finance,Account Executive,2021-05-11,2023-03-28,Male,Lyon,133829,3273.8,1200,,,4,2,1,686
+E1540,Georges,Leblanc,Sales,HR Coordinator,2019-03-15,,Male,Montpellier,246818,9907.89,1200,1,No,9,2,0,2425
+E1983,Claire,Leclercq,Engineering,Sales Development Rep,2021-11-21,,Unknown,Nantes,115457,5646.99,200,1,No,10,3,0,1443
+E1108,Noémi,Bodin,Human Resources,Machine Learning Engineer,2017-04-05,,Unknown,Remote,190523,9329.86,500,,No,1,9,0,3134
+E1042,Maggie,Le Gall,Unknown,Inside Sales Rep,2019-07-28,,Male,Paris,110124,3287.9,1200,,,4,2,0,2290
+E1466,Capucine,Samson,Sales,Specialist,2020-05-08,,Male,Lyon,133928,6577.54,1200,,No,10,5,0,2005
+E1286,Pauline,Gosselin,Human Resources,Product Marketing Manager,2022-01-19,,Female,Bordeaux,139357,6303.12,0,,No,6,7,0,1384
+E1770,Élise,Tanguy,Sales,Frontend Engineer,2016-03-01,,Non-Binary,Paris,86579,2760.49,1000,,No,5,7,0,3534
+E1450,Léon,Camus,Human Resources,HR Machine Learning Engineer,2016-11-19,,Female,Montpellier,237962,10859.29,0,1,No,6,4,0,3271
+E1026,Christophe,Munoz,Unknown,Inside Sales Rep,2017-04-06,,Female,Bordeaux,137558,4990.48,200,4,No,9,5,0,3133
+E1168,Henri,Bouvier,Sales,Associate,2020-11-06,,NaN,Remote,200475,8238.62,1000,,,8,4,0,1823
+E1701,Nathalie,Berger,Marketing,Internal Auditor,2019-07-26,,Female,Lyon,137464,3443.09,1000,1,No,9,2,0,2292
+E1152,Colette,Bernier,Engineering,HR Data Scientist,2018-10-21,,Unknown,Montpellier,146911,6315.15,1000,1,No,2,4,0,2570
+E1563,Anouk,Durand,Finance,Associate,2024-05-21,2025-07-02,Female,Nantes,222406,9454.02,500,1,No,9,6,1,407
+E1921,Danielle,Barthelemy,Finance,Controller,2016-09-24,,Male,Bordeaux,205767,9025.43,1000,,No,8,10,0,3327
+E1096,Danielle,Jacques,Engineering,Specialist,2024-02-28,,Male,Nantes,93336,4341.32,1000,1,Yes,8,7,0,614
+E1158,Virginie,Valette,Human Resources,Regional Sales Director,2022-09-02,,NaN,Montpellier,70252,2133.1,500,5,No,5,6,0,1158
+E1509,Alex,Buisson,Sales,Payroll Specialist,2017-05-13,2022-07-01,Male,Bordeaux,56749,1966.53,1200,4,No,4,5,1,1875
+E1333,Capucine,Moulin,Finance,Customer Success Manager,2020-05-06,,Male,Bordeaux,220345,5836.67,1200,4,Yes,10,1,0,2007
+E1179,Lucie,Louis,Unknown,Compensation Analyst,2022-12-12,,Male,Montpellier,148830,6236.36,1000,,,7,2,0,1057
+E1681,Paul,Marion,Finance,Internal Auditor,2019-06-16,2021-04-06,Unknown,Bordeaux,211211,6067.37,500,,,8,2,1,660
+E1012,Emmanuelle,Delorme,Finance,Machine Learning Engineer,2022-11-23,,NaN,Remote,190976,4947.01,1200,2,No,8,8,0,1076
+E1055,Olivier,Philippe,Finance,Payroll Specialist,2020-04-26,2022-07-24,Female,Remote,208328,5442.85,1200,5,No,4,7,1,819
+E1288,Émile,Blanchard,Unknown,Backend Engineer,2017-02-01,2019-04-01,Unknown,Montpellier,111705,2901.9,1000,,No,5,8,1,789
+E1554,Franck,Poulain,Marketing,Marketing Manager,2021-06-29,,NaN,Nantes,184567,5546.8,1200,1,No,4,3,0,1588
+E1300,Eugène,Albert,Sales,HR Data Scientist,2019-05-09,,Non-Binary,Lyon,205806,6084.42,1000,3,No,3,6,0,2370
+E1296,Brigitte,Guyon,Engineering,Social Media Manager,2020-09-29,,NaN,Lyon,236775,9026.95,1000,1,Yes,8,4,0,1861
+E1077,Marthe,Delaunay,Unknown,Financial Analyst,2016-04-12,,Unknown,Paris,192954,4345.12,500,3,No,5,5,0,3492
+E1354,Charles,Jacquot,Engineering,Brand Manager,2017-09-04,,Female,Paris,211399,8737.31,1000,1,No,9,3,0,2982
+E1350,Louise,Robin,Unknown,Financial Analyst,2020-11-04,2025-09-27,Non-Binary,Montpellier,192855,3936.28,1000,1,Yes,5,6,1,1788
+E1954,Lucy,Guillaume,Human Resources,Coordinator,2016-05-29,,Non-Binary,Lyon,49840,1283.69,1000,1,Yes,7,8,0,3445
+E1930,Nath,Didier,Human Resources,Account Executive,2024-09-23,2025-09-25,Unknown,Bordeaux,96631,3296.54,1200,2,Yes,4,3,1,367
+E1098,Antoine,Diallo,Marketing,HR Data Scientist,2016-06-28,2021-11-08,NaN,Lyon,217737,9394.68,1200,,Yes,7,7,1,1959
+E1909,Michèle,Lecomte,Finance,FP&A Manager,2016-08-25,2021-05-23,NaN,Lyon,237745,6212.56,1000,,Yes,8,6,1,1732
+E1057,Françoise,Reynaud,Finance,Specialist,2023-10-08,,Female,Montpellier,144495,4948.21,1200,1,Yes,4,10,0,757
+E1568,Franck,Pelletier,Finance,Accountant,2020-02-10,,NaN,Montpellier,170013,5836.78,0,4,Yes,7,9,0,2093
+E1717,Antoinette,Durand,Engineering,Specialist,2019-11-12,,Unknown,Nantes,114366,3073.88,0,1,No,7,8,0,2183
+E1364,Martine,Hamon,Finance,Inside Sales Rep,2022-06-25,2025-09-10,Female,Paris,153796,3160.72,1200,5,Yes,4,10,1,1173
+E1975,Jacqueline,Fleury,Human Resources,Data Scientist,2017-10-11,,Male,Montpellier,100094,4367.88,200,,,9,9,0,2945
+E1520,Margaud,Girard,Human Resources,Machine Learning Engineer,2016-12-29,2022-05-17,NaN,Remote,172884,3763.22,200,4,No,7,1,1,1965
+E1109,Patricia,Fernandes,Engineering,Inside Sales Rep,2019-11-10,,Unknown,Lyon,88549,1899.55,0,3,No,10,2,0,2185
+E1621,Corinne,Olivier,Finance,Regional Sales Director,2021-03-19,,Female,Montpellier,107934,4009.47,500,1,Yes,5,4,0,1690
+E1999,Henri,Maillard,Engineering,Engineering Manager,2020-10-06,,Non-Binary,Nantes,176974,4210.8,200,5,Yes,2,4,0,1854
+E1528,Anouk,Mathieu,Engineering,Regional Sales Director,2019-01-24,,Unknown,Remote,142427,6630.66,1000,5,No,5,4,0,2475
+E1001,Joséphine,Muller,Marketing,Coordinator,2020-08-24,,Unknown,Paris,237369,9547.68,500,1,No,7,2,0,1897
+E1119,Marthe,Lesage,Engineering,Social Media Manager,2016-03-01,2025-01-25,Non-Binary,Bordeaux,202017,4282.64,1200,1,No,2,1,1,3252
+E1385,Emmanuelle,Lagarde,Sales,Content Strategist,2017-04-24,,Female,Montpellier,167309,8294.48,200,,,4,8,0,3115
+E1908,Anaïs,Bruneau,Sales,Talent Acquisition Specialist,2021-02-20,2024-12-26,Unknown,Bordeaux,202105,7770.81,0,1,No,5,10,1,1405
+E1689,Alexandria,Guillou,Human Resources,Specialist,2016-10-08,2020-10-27,Unknown,Paris,43482,910.5,1000,5,No,10,3,1,1480
+E1652,Juliette,Rodrigues,Engineering,Inside Sales Rep,2016-06-06,2021-10-15,Unknown,Nantes,207108,7235.65,500,2,No,1,10,1,1957
+E1414,Christelle,Hernandez,Human Resources,Financial Analyst,2023-06-09,,Female,Montpellier,102857,3243.23,1200,4,No,2,6,0,878
+E1321,René,Coste,Human Resources,HR Machine Learning Engineer,2022-08-26,,Unknown,Bordeaux,197738,8897.57,0,1,No,10,10,0,1165
+E1536,Étienne,Hardy,Human Resources,Analyst,2021-04-06,,Non-Binary,Bordeaux,154000,7205.34,1000,4,Yes,7,2,0,1672
+E1618,Margaux,Dumas,Human Resources,Technical Lead,2019-10-13,2023-09-06,Male,Remote,239594,5879.83,1200,,,8,6,1,1424
+E1106,Juliette,Martinez,Marketing,Specialist,2019-10-22,,Female,Bordeaux,79901,3791.37,500,3,No,9,6,0,2204
+E1751,David,De Oliveira,Sales,Technical Lead,2018-12-24,,Male,Montpellier,184776,8100.47,200,,,8,5,0,2506
+E1977,Camille,Robin,Human Resources,Internal Auditor,2022-04-29,,Female,Bordeaux,196367,4789.88,500,3,Yes,9,10,0,1284
+E1525,Cécile,Wagner,Finance,Customer Success Manager,2018-03-19,2021-07-09,NaN,Lyon,91105,3635.95,1000,3,No,6,9,1,1208
+E1490,Hugues,Brunet,Sales,Solutions Engineer,2019-05-18,2024-12-12,Unknown,Lyon,145382,4781.29,500,1,Yes,8,10,1,2035
+E1865,Laurence,Didier,Marketing,Accountant,2016-05-17,2017-10-27,Male,Remote,168365,3421.08,500,,No,10,1,1,528
+E1068,Nicole,Breton,Sales,Senior Software Engineer,2019-11-29,,Male,Paris,59217,1444.94,1200,,Yes,8,4,0,2166
+E1539,Hortense,Delannoy,Finance,Inside Sales Rep,2023-02-28,,NaN,Nantes,225524,9222.24,1000,5,Yes,6,8,0,979
+E1920,Éléonore,Guillet,Engineering,Accountant,2024-10-09,,Female,Paris,116198,4047.24,500,,,2,7,0,390
+E1864,Jules,Duhamel,Human Resources,Payroll Specialist,2018-11-09,2024-06-29,Non-Binary,Montpellier,174939,8473.84,200,,,1,4,1,2059
+E1460,Philippe,Aubry,Human Resources,Financial Analyst,2019-05-31,2021-05-31,Unknown,Remote,87344,2132.88,500,1,No,3,3,1,731
+E1848,Cécile,Antoine,Human Resources,People Analyst,2019-04-11,,NaN,Bordeaux,96108,4324.57,200,1,Yes,4,1,0,2398
+E1833,Lucy,Rémy,Sales,Brand Manager,2015-11-12,,NaN,Nantes,176831,6824.59,1000,5,No,6,3,0,3644
+E1254,Nath,Samson,Sales,Engineering Manager,2022-06-18,,Female,Nantes,230869,4786.91,200,4,No,2,1,0,1234
+E1455,Célina,Rolland,Human Resources,Associate,2016-11-22,,Female,Nantes,148693,3978.52,200,5,No,10,10,0,3268
+E1437,Dorothée,Gonzalez,Engineering,Talent Acquisition Specialist,2021-01-29,,NaN,Nantes,81417,2320.68,0,,Yes,6,2,0,1739
+E1405,Antoine,Coste,Human Resources,VP of Sales,2020-02-13,,NaN,Montpellier,224186,6907.2,500,,Yes,2,9,0,2090
+E1551,Claude,Maurice,Engineering,Content Strategist,2020-07-04,,NaN,Montpellier,167459,5491.93,500,,,1,9,0,1948
+E1906,Christine,Hoareau,Sales,Technical Lead,2016-11-22,2019-05-24,NaN,Nantes,243850,11704.37,1000,3,No,7,6,1,913
+E1112,Marguerite,Hoarau,Engineering,People Analyst,2023-01-03,,Female,Montpellier,50974,1338.67,200,5,No,2,10,0,1035
+E1973,Tristan,Martinez,Sales,FP&A Manager,2018-07-21,2020-02-21,NaN,Nantes,67022,2533.96,0,3,No,6,10,1,580
+E1448,Adrien,Dupré,Human Resources,Engineering Manager,2018-08-07,,Non-Binary,Montpellier,40708,1147.85,200,1,No,10,3,0,2645
+E1797,Sylvie,Blanchet,Human Resources,Payroll Specialist,2017-11-15,2020-01-18,Unknown,Bordeaux,153968,5046.08,1200,4,Yes,10,8,1,794
+E1680,Martin,Gosselin,Engineering,Senior Accountant,2019-02-14,,Unknown,Remote,213330,7920.31,500,2,No,3,1,0,2454
+E1569,Catherine,Martin,Sales,Customer Success Manager,2023-11-24,2025-04-20,Male,Lyon,220302,7887.0,200,3,Yes,4,10,1,513
+E1005,Patrick,Lemoine,Engineering,VP of Sales,2019-10-16,,Male,Montpellier,71383,2279.02,1000,5,Yes,5,6,0,2210
+E1207,Brigitte,Merle,Finance,Coordinator,2019-04-06,2023-03-27,Unknown,Montpellier,116363,3035.63,1200,1,No,4,8,1,1451
+E1394,Patrick,Pascal,Human Resources,FP&A Manager,2017-01-25,,Male,Bordeaux,220987,8612.62,0,,,10,10,0,3204
+E1746,Gilbert,Blondel,Marketing,SEO Specialist,2016-02-11,,Non-Binary,Nantes,73291,1993.01,1200,,,5,10,0,3553
+E1791,Frédérique,Navarro,Sales,Senior Accountant,2024-02-19,,Unknown,Lyon,163592,5453.07,1000,3,No,9,5,0,623
+E1025,Margaret,Bonneau,Sales,Financial Analyst,2017-11-25,2022-08-07,Unknown,Montpellier,51043,1815.79,1200,5,No,5,3,1,1716
+E1306,Marine,Briand,Finance,Regional Sales Director,2021-05-26,,Unknown,Lyon,142181,4763.6,1200,,,6,8,0,1622
+E1491,Maurice,Royer,Human Resources,Content Strategist,2024-07-06,,Female,Bordeaux,103691,2121.92,500,,,4,3,0,485
+E1407,Pauline,Bonneau,Human Resources,Analyst,2016-07-31,,Unknown,Bordeaux,54791,2349.91,1000,1,Yes,10,8,0,3382
+E1714,Danielle,Lenoir,Sales,Senior Software Engineer,2019-08-13,,Unknown,Paris,63297,2388.95,1200,,,1,4,0,2274
+E1267,Dorothée,Poirier,Engineering,Associate,2023-11-15,2024-11-26,Female,Remote,169985,5590.53,0,4,Yes,1,8,1,377
+E1050,Simone,Fernandez,Sales,Senior Software Engineer,2021-02-08,,Unknown,Nantes,157812,7284.4,1000,,No,8,1,0,1729
+E1808,Aurélie,Barbier,Human Resources,People Analyst,2020-12-14,,Non-Binary,Nantes,58506,2413.48,1000,,Yes,1,7,0,1785
+E1069,André,Lucas,Engineering,Engineering Manager,2017-01-20,2018-03-25,Female,Nantes,138101,6245.37,0,2,No,10,7,1,429
+E1494,Jules,Adam,Human Resources,Sales Development Rep,2018-03-01,,NaN,Bordeaux,212956,6589.89,0,3,Yes,1,7,0,2804
+E1672,Camille,Carre,Sales,Talent Acquisition Specialist,2021-05-10,2022-12-14,Female,Remote,78141,2176.85,0,3,No,1,1,1,583
+E1910,Sylvie,Bègue,Sales,Inside Sales Rep,2018-12-09,,Male,Lyon,126968,3280.14,200,,No,6,7,0,2521
+E1022,Zacharie,Clerc,Human Resources,Financial Analyst,2019-12-15,,Female,Bordeaux,153534,3413.16,500,2,No,2,7,0,2150
+E1093,Zoé,Lacombe,Human Resources,HR Machine Learning Engineer,2018-04-21,,Unknown,Bordeaux,45500,1107.21,200,,,5,1,0,2753
+E1213,Nicolas,Poirier,Finance,QA Engineer,2019-01-14,2022-06-07,Unknown,Montpellier,230897,11087.8,1000,3,No,6,9,1,1240
+E1290,Denis,Evrard,Human Resources,Account Executive,2018-02-07,,Unknown,Paris,196738,7184.23,500,3,No,1,9,0,2826
+E1344,Noël,Delannoy,Marketing,Account Executive,2020-08-15,2022-07-27,Female,Bordeaux,129226,5486.12,0,,No,8,8,1,711
+E1159,Laetitia,Hernandez,Engineering,VP of Sales,2020-03-07,2022-10-25,Male,Paris,164351,5234.38,200,,,7,4,1,962
+E1273,Olivier,Breton,Marketing,HR Machine Learning Engineer,2023-04-17,2024-08-12,Female,Montpellier,249165,7540.73,0,,No,1,9,1,483
+E1879,Henri,Chauveau,Sales,Regional Sales Director,2024-03-31,2025-05-29,Unknown,Nantes,82614,2461.33,1000,,,1,7,1,424
+E1740,Élisabeth,Courtois,Unknown,Account Executive,2022-10-23,2024-01-27,Unknown,Bordeaux,43471,1057.02,1200,,,7,3,1,461
+E1208,Olivie,Lagarde,Sales,Account Executive,2016-05-08,,Unknown,Lyon,237128,5255.49,200,5,Yes,7,7,0,3466
+E1690,Céline,Auger,Engineering,Social Media Manager,2019-08-17,,Non-Binary,Paris,65883,3028.66,1000,1,No,2,2,0,2270
+E1401,Julien,Sanchez,Human Resources,QA Engineer,2023-11-12,,Female,Paris,131937,5278.56,1000,1,Yes,8,1,0,722
+E1426,Eugène,Pelletier,Sales,Financial Analyst,2015-12-08,,Unknown,Lyon,214905,9310.38,1200,5,No,6,3,0,3618
+E1609,François,Rousset,Engineering,Customer Success Manager,2021-08-16,2022-09-20,Non-Binary,Lyon,92341,4438.89,0,,,6,7,1,400
+E1611,Emmanuel,Weiss,Sales,Internal Auditor,2023-12-14,2025-02-13,Female,Lyon,231877,6312.9,200,1,No,7,10,1,427
+E1185,Bernadette,Weber,Sales,Internal Auditor,2023-06-18,2024-07-15,Non-Binary,Montpellier,217995,9096.66,500,,No,5,8,1,393
+E1919,Arthur,Albert,Engineering,Specialist,2016-04-17,,Non-Binary,Nantes,94037,4598.09,500,1,No,1,1,0,3487
+E1693,Patrick,Marty,Sales,Software Engineer,2023-11-05,2025-04-08,Unknown,Lyon,111839,4376.49,0,5,No,6,7,1,520
+E1739,Zoé,Menard,Finance,People Analyst,2023-11-07,,Unknown,Bordeaux,244117,11750.37,200,,No,10,1,0,727
+E1220,Xavier,Laurent,Sales,Associate,2019-05-09,,NaN,Bordeaux,83999,2856.0,200,5,No,6,6,0,2370
+E1692,Colette,Barre,Finance,SEO Specialist,2019-01-22,2024-10-26,Female,Bordeaux,246660,9009.9,200,3,No,4,4,1,2104
+E1810,Margaret,Blanchet,Human Resources,Senior Software Engineer,2023-08-25,2025-02-04,Male,Nantes,106881,3998.8,500,,Yes,6,5,1,529
+E1547,Nathalie,Boyer,Human Resources,Software Engineer,2020-06-19,,Non-Binary,Bordeaux,249878,10740.49,0,3,Yes,9,4,0,1963
+E1844,Lucas,Giraud,Finance,Talent Acquisition Specialist,2022-05-04,2025-01-24,NaN,Remote,148044,6772.5,200,3,No,7,2,1,996
+E1091,Paulette,Roger,Engineering,Senior Software Engineer,2019-11-15,,Female,Paris,131748,4107.61,1200,,Yes,6,1,0,2180
+E1244,Émilie,Roche,Marketing,HR Data Scientist,2021-04-05,2022-12-17,Non-Binary,Montpellier,184919,8615.99,1200,3,No,1,10,1,621
+E1016,Agathe,Bailly,Marketing,SEO Specialist,2022-01-22,,Non-Binary,Bordeaux,244492,6616.74,1200,,Yes,1,4,0,1381
+E1483,Sabine,Perrot,Marketing,FP&A Manager,2017-09-11,,Male,Paris,151503,6848.95,500,5,No,4,7,0,2975
+E1423,Manon,Peron,Sales,Sales Development Rep,2023-05-19,2024-07-20,NaN,Lyon,183944,8813.99,0,,No,5,1,1,428
+E1134,Christiane,Delmas,Human Resources,HR Business Partner,2023-05-01,2024-07-29,Female,Nantes,187536,8597.5,0,3,No,2,3,1,455
+E1744,Philippe,Pottier,Sales,Controller,2019-02-17,,Male,Paris,55953,1986.02,1000,1,Yes,6,9,0,2451
+E1669,Diane,David,Marketing,Solutions Engineer,2016-08-05,2019-12-24,Unknown,Paris,122255,5083.22,1200,1,No,3,3,1,1236
+E1645,Nathalie,Sanchez,Human Resources,Inside Sales Rep,2024-01-18,,NaN,Nantes,130047,4574.55,1000,,,3,6,0,655
+E1578,Nathalie,Gomez,Finance,QA Engineer,2023-09-21,,Female,Remote,115717,3465.48,500,1,No,8,1,0,774
+E1741,Valérie,Chauveau,Engineering,HR Data Scientist,2018-03-06,2023-07-10,Non-Binary,Nantes,72682,1523.57,200,,,7,6,1,1952
+E1399,Raymond,Becker,Human Resources,Account Executive,2019-10-24,,NaN,Nantes,99181,4332.65,0,1,Yes,7,6,0,2202
+E1986,Michelle,Giraud,Finance,Controller,2017-09-01,2021-11-02,Unknown,Bordeaux,51963,1952.7,1200,,,4,10,1,1523
+E1641,Gabriel,Lambert,Human Resources,Inside Sales Rep,2021-02-21,2024-01-23,Female,Paris,75327,2209.0,200,,,2,2,1,1066
+E1890,Gabriel,Chevallier,Unknown,Inside Sales Rep,2018-11-02,,Unknown,Lyon,86190,3145.51,1000,5,No,8,3,0,2558
+E1212,Capucine,Gauthier,Sales,Machine Learning Engineer,2016-03-18,2020-01-05,Male,Remote,185070,6273.04,1000,5,Yes,5,10,1,1388
+E1601,Margaret,Guillou,Sales,People Analyst,2019-11-08,,Non-Binary,Nantes,52487,2580.46,500,3,Yes,1,4,0,2187
+E1735,Pierre,Raymond,Engineering,Coordinator,2021-05-07,,Male,Montpellier,226440,5772.07,200,4,No,1,9,0,1641
+E1499,Geneviève,Meyer,Finance,Engineering Manager,2018-06-15,,NaN,Remote,56705,2809.97,1200,,,9,8,0,2698
+E1595,Manon,Pires,Engineering,Solutions Engineer,2021-04-14,,NaN,Lyon,199968,9680.49,200,,,1,4,0,1664
+E1600,Marianne,Marchand,Human Resources,Specialist,2018-11-01,,Unknown,Bordeaux,246911,7054.89,0,1,No,3,4,0,2559
+E1655,Antoine,Dupuis,Finance,FP&A Manager,2024-10-22,,Female,Nantes,173801,5317.5,0,2,No,1,3,0,377
+E1781,Thomas,Gomez,Finance,HR Business Partner,2022-12-04,2024-02-20,Unknown,Bordeaux,175926,3853.34,200,4,No,5,2,1,443
+E1263,Gabrielle,Bourdon,Engineering,Backend Engineer,2020-04-22,,Female,Montpellier,131329,3208.26,1000,3,No,1,9,0,2021
+E1389,Marc,Collet,Sales,Talent Acquisition Specialist,2019-08-20,,Female,Bordeaux,220126,9420.29,1200,,,1,4,0,2267
+E1872,Andrée,Clément,Human Resources,VP of Sales,2019-03-12,2023-01-03,NaN,Bordeaux,86465,3898.32,1200,3,No,1,3,1,1393
+E1362,Denise,Bernier,Sales,Specialist,2024-09-01,,Non-Binary,Montpellier,234850,10958.98,500,4,Yes,8,5,0,428
+E1629,Céline,Devaux,Human Resources,Frontend Engineer,2023-08-19,2024-09-05,Non-Binary,Lyon,246477,9415.18,200,3,No,8,7,1,383
+E1782,Marthe,Thierry,Sales,Product Marketing Manager,2017-01-29,2019-05-27,Non-Binary,Bordeaux,182047,4779.68,0,5,Yes,6,5,1,848
+E1343,Roger,Normand,Human Resources,Solutions Engineer,2020-11-15,2025-08-25,Male,Bordeaux,102767,3766.41,500,1,No,3,7,1,1744
+E1351,Céline,Peltier,Sales,Graphic Designer,2019-12-09,,Unknown,Bordeaux,119793,5630.88,1200,3,No,10,3,0,2156
+E1270,Valentine,Rousseau,Engineering,Coordinator,2020-03-03,,NaN,Remote,177702,7690.16,1200,,,5,5,0,2071
+E1637,Édouard,Laporte,Unknown,Analyst,2020-04-05,,Female,Bordeaux,142298,6599.33,1200,5,No,2,6,0,2038
+E1128,Adrienne,Denis,Human Resources,Specialist,2017-03-22,,Non-Binary,Nantes,107510,4007.16,1200,4,No,10,7,0,3148
+E1291,Margot,Bonnet,Engineering,Backend Engineer,2016-07-03,,Female,Nantes,241293,11710.07,0,1,No,7,3,0,3410
+E1842,Agnès,Bigot,Finance,HR Business Partner,2020-06-29,,Non-Binary,Bordeaux,88563,3640.19,1200,,No,5,9,0,1953
+E1866,Christine,Lacombe,Unknown,Content Strategist,2019-02-20,,Female,Bordeaux,45948,1448.58,500,,,3,5,0,2448
+E1103,Alfred,Ollivier,Unknown,Regional Sales Director,2022-02-09,,NaN,Montpellier,73185,2085.56,200,3,No,4,9,0,1363
+E1420,André,Lelièvre,Human Resources,Inside Sales Rep,2023-08-16,,Unknown,Lyon,176966,3957.4,200,,,7,6,0,810
+E1474,David,Costa,Engineering,Sales Development Rep,2023-12-03,,NaN,Nantes,184735,4618.06,500,3,No,10,7,0,701
+E1726,Célina,Diallo,Sales,Data Scientist,2018-12-25,2022-04-20,Non-Binary,Lyon,170637,4745.97,1000,,No,2,6,1,1212
+E1253,Alex,Paris,Sales,Analyst,2021-03-22,,Unknown,Nantes,246269,10100.0,1200,,No,1,2,0,1687
+E1289,Nathalie,Pichon,Human Resources,Product Marketing Manager,2020-04-08,2024-03-07,Female,Paris,116583,5037.39,0,,Yes,4,2,1,1429
+E1885,Thérèse,Hebert,Human Resources,Internal Auditor,2021-08-04,,Female,Paris,96723,4324.0,500,4,No,4,5,0,1552
+E1968,Théophile,Blot,Sales,Senior Accountant,2019-06-04,,Male,Montpellier,80020,3842.06,200,5,No,2,8,0,2344
+E1940,Julien,Robert,Sales,FP&A Manager,2016-09-01,,Unknown,Montpellier,124106,4002.5,500,1,No,8,8,0,3350
+E1217,Geneviève,Bruneau,Finance,Account Executive,2019-12-08,,Non-Binary,Nantes,217052,5243.7,500,,No,3,5,0,2157
+E1174,Adrienne,Hervé,Human Resources,Frontend Engineer,2021-07-02,,NaN,Remote,223249,5721.27,0,,No,3,2,0,1585
+E1366,Édouard,Colin,Engineering,Customer Success Manager,2018-01-02,,NaN,Bordeaux,186795,4230.48,0,,No,5,1,0,2862
+E1722,Suzanne,Tanguy,Human Resources,Brand Manager,2021-05-13,,Male,Lyon,51757,2337.28,1200,1,No,9,5,0,1635
+E1246,William,Gimenez,Human Resources,QA Engineer,2023-11-30,2025-06-26,NaN,Remote,58408,1628.52,1000,2,No,5,10,1,574
+E1484,Hortense,Charrier,Sales,Specialist,2022-07-25,,Female,Montpellier,141168,5214.94,0,4,No,2,8,0,1197
+E1649,Philippine,Thomas,Engineering,Internal Auditor,2021-01-05,,Male,Bordeaux,137315,5889.96,200,5,No,6,7,0,1763
+E1478,Monique,Pires,Human Resources,FP&A Manager,2019-11-09,2025-08-13,Unknown,Remote,246343,9491.58,500,,No,7,3,1,2104
+E1881,Auguste,Pinto,Human Resources,Controller,2021-11-16,,Female,Bordeaux,62663,2656.97,1200,5,Yes,3,7,0,1448
+E1850,Nath,Hoareau,Sales,Digital Marketing Analyst,2018-06-05,,Female,Bordeaux,199144,8084.06,1200,,Yes,9,7,0,2708
+E1027,Roland,Da Silva,Sales,HR Business Partner,2024-09-30,,Male,Lyon,193396,8070.96,0,3,No,8,3,0,399
+E1473,Daniel,Berger,Sales,Content Strategist,2019-10-11,2024-12-26,Non-Binary,Remote,47115,2148.19,1200,,No,1,4,1,1903
+E1763,Antoinette,Bernard,Sales,Internal Auditor,2016-10-24,,Non-Binary,Paris,48623,1020.51,0,,,5,9,0,3297
+E1092,Agnès,Leroux,Engineering,People Analyst,2017-03-05,,Unknown,Bordeaux,248980,10454.32,200,4,No,7,8,0,3165
+E1338,Camille,Sauvage,Sales,Payroll Specialist,2017-05-27,2023-09-25,Female,Lyon,152067,7486.38,1200,5,No,10,10,1,2312
+E1225,Camille,Verdier,Finance,Compensation Analyst,2018-10-13,,Unknown,Nantes,169719,3695.66,200,3,No,9,10,0,2578
+E1852,Agnès,Meunier,Sales,Specialist,2021-07-23,2022-12-15,Unknown,Nantes,93018,2902.39,200,3,No,2,7,1,510
+E1818,Christelle,Alves,Sales,QA Engineer,2023-10-16,2024-12-23,Non-Binary,Lyon,158641,4617.19,500,,,10,2,1,434
+E1784,Clémence,Pottier,Finance,Sales Manager,2022-08-25,2024-06-25,Male,Paris,66432,2925.41,200,4,No,1,3,1,670
+E1444,Matthieu,Boutin,Engineering,Marketing Manager,2017-01-16,,Female,Paris,112638,4991.91,200,1,No,6,4,0,3213
+E1123,Clémence,Bouchet,Finance,Senior Software Engineer,2016-03-11,,Non-Binary,Lyon,211242,7495.53,1200,,,8,3,0,3524
+E1502,Michelle,Caron,Engineering,Inside Sales Rep,2019-04-04,,NaN,Paris,215281,4788.2,0,1,Yes,6,7,0,2405
+E1261,Henriette,Lebrun,Human Resources,Software Engineer,2021-10-28,,Female,Bordeaux,140320,5893.1,1200,,,3,4,0,1467
+E1222,Virginie,Pons,Engineering,Machine Learning Engineer,2021-09-24,2023-04-23,Unknown,Remote,131782,4402.59,1000,2,No,2,5,1,576
+E1101,Eugène,Fontaine,Sales,FP&A Manager,2024-02-01,,Female,Remote,150997,5777.5,200,,,7,3,0,641
+E1341,Philippine,Fournier,Human Resources,People Analyst,2021-09-15,,NaN,Remote,159219,3536.19,500,,Yes,5,4,0,1510
+E1729,Anouk,Nicolas,Human Resources,Graphic Designer,2021-02-06,2025-10-22,Female,Nantes,217323,7879.57,500,,Yes,7,9,1,1719
+E1319,Audrey,Rodrigues,Finance,Brand Manager,2024-06-25,2025-09-03,Unknown,Nantes,242271,5017.44,200,1,No,5,7,1,435
+E1398,Andrée,Lelièvre,Sales,HR Machine Learning Engineer,2017-03-11,,Unknown,Lyon,128242,3800.42,500,,No,10,2,0,3159
+E1665,Élise,Couturier,Sales,Payroll Specialist,2017-07-17,,Male,Paris,234115,6491.55,200,5,No,6,10,0,3031
+E1622,William,Richard,Human Resources,HR Coordinator,2020-01-15,,Non-Binary,Remote,151583,4848.09,200,1,No,2,1,0,2119
+E1965,Marine,Bouvet,Engineering,Payroll Specialist,2021-06-16,,Female,Nantes,198332,8291.22,200,3,Yes,7,5,0,1601
+E1294,Aimée,Renault,Engineering,QA Engineer,2022-05-21,,Unknown,Bordeaux,170307,6700.06,1200,4,No,1,5,0,1262
+E1435,Véronique,Delmas,Finance,Analyst,2018-01-06,,Unknown,Bordeaux,152589,7238.2,200,4,No,5,10,0,2858
+E1620,Odette,Robert,Sales,Software Engineer,2020-08-21,,Male,Paris,100922,3317.35,200,5,No,10,2,0,1900
+E1480,Aurore,Le Roux,Engineering,Specialist,2017-08-14,2021-07-26,NaN,Paris,156843,3961.61,0,4,Yes,1,9,1,1442
+E1855,Zacharie,Martin,Human Resources,Sales Development Rep,2023-04-03,2025-06-27,Male,Nantes,193156,5133.68,1200,1,No,9,7,1,816
+E1674,Amélie,Renaud,Sales,Graphic Designer,2020-10-20,,NaN,Nantes,120920,4887.7,1000,3,No,6,4,0,1840
+E1227,Maryse,Besson,Human Resources,Regional Sales Director,2020-10-18,,Female,Paris,185601,4234.59,0,,,3,5,0,1842
+E1242,Pauline,Hamon,Marketing,Account Executive,2019-10-22,,Male,Lyon,140134,6564.72,500,3,No,3,7,0,2204
+E1135,Guillaume,Couturier,Sales,Controller,2016-05-15,,Unknown,Paris,117933,2970.82,500,,No,9,2,0,3459
+E1633,Théophile,Pasquier,Finance,Controller,2024-03-13,,Unknown,Paris,195639,8510.33,1200,,,7,6,0,600
+E1900,Madeleine,Lefebvre,Human Resources,Associate,2018-02-09,,Unknown,Lyon,128687,6259.11,500,,,8,2,0,2824
+E1914,Colette,Fernandez,Engineering,Financial Analyst,2023-01-03,,Female,Montpellier,66671,2681.67,1200,,No,7,7,0,1035
+E1470,Marguerite,Martinez,Sales,HR Machine Learning Engineer,2023-08-14,2025-06-19,Unknown,Remote,249188,11216.29,0,,Yes,10,6,1,675
+E1913,Cécile,Gay,Unknown,Analyst,2022-06-23,,NaN,Nantes,87942,2981.32,500,,No,5,3,0,1229
+E1904,Jules,Robin,Engineering,Talent Acquisition Specialist,2022-12-16,2024-04-13,Unknown,Bordeaux,102426,4886.52,0,,No,4,10,1,484
+E1873,François,Marin,Sales,Internal Auditor,2017-10-24,,Non-Binary,Lyon,134395,3987.56,500,,No,6,2,0,2932
+E1978,Jérôme,Faure,Engineering,Accountant,2022-04-11,,Female,Lyon,209657,6662.5,500,,,8,6,0,1302
+E1003,Daniel,Guérin,Sales,Specialist,2019-11-15,,Male,Montpellier,227792,8636.16,0,,No,8,5,0,2180
+E1482,Anne,Fabre,Human Resources,Inside Sales Rep,2017-05-14,,Female,Nantes,197791,9472.92,500,,No,9,8,0,3095
+E1737,Bernadette,Carre,Sales,Backend Engineer,2024-01-01,,Male,Bordeaux,121593,2557.98,500,,,5,2,0,672
+E1464,Pierre,Gosselin,Engineering,FP&A Manager,2020-05-26,,NaN,Paris,149607,6144.03,1000,5,No,4,5,0,1987
+E1421,Nathalie,Hebert,Sales,Digital Marketing Analyst,2016-01-31,2018-10-01,Female,Bordeaux,231334,8515.12,500,4,No,10,4,1,974
+E1521,Hélène,Jean,Engineering,Sales Manager,2020-01-26,,NaN,Lyon,229313,5889.46,200,5,Yes,3,2,0,2108
+E1716,Amélie,Charpentier,Human Resources,Content Strategist,2017-06-12,2021-04-18,Female,Paris,203164,5667.57,200,,No,2,6,1,1406
+E1981,Élise,Bègue,Human Resources,Payroll Specialist,2024-01-04,,Male,Lyon,97716,3232.53,500,,,9,9,0,669
+E1939,Sabine,Blanchard,Human Resources,Frontend Engineer,2017-03-13,,Male,Lyon,190796,8747.71,200,5,No,6,6,0,3157
+E1177,Sylvie,Meyer,Human Resources,HR Business Partner,2022-08-07,2024-03-24,Female,Nantes,128391,5010.06,500,3,No,8,8,1,595
+E1121,Alexandre,Raynaud,Sales,Data Scientist,2022-08-21,,Unknown,Montpellier,158398,4903.89,0,2,No,7,4,0,1170
+E1279,Amélie,Pons,Marketing,Associate,2021-12-02,,Unknown,Remote,65841,1661.81,1000,,,2,6,0,1432
+E1988,Georges,Leclercq,Finance,Solutions Engineer,2023-02-20,2024-09-10,NaN,Lyon,59181,1652.52,1200,4,No,10,6,1,568
+E1238,Henri,Cohen,Human Resources,Coordinator,2023-10-18,,NaN,Nantes,183220,4669.33,0,,,7,2,0,747
+E1436,Catherine,Gimenez,Engineering,Backend Engineer,2023-10-22,,Male,Paris,49613,2260.06,500,3,No,2,4,0,743
+E1072,Julien,Brun,Finance,Specialist,2018-06-12,,Unknown,Bordeaux,47797,2334.49,1000,2,No,9,6,0,2701
+E1021,Arthur,Vallée,Sales,Social Media Manager,2022-09-17,2024-11-22,Unknown,Bordeaux,49914,2132.27,200,2,No,1,2,1,797
+E1252,Laurent,Mahe,Sales,Machine Learning Engineer,2021-01-31,,Non-Binary,Paris,175927,8605.13,200,4,No,6,2,0,1737
+E1734,Thomas,Courtois,Engineering,People Analyst,2018-11-09,,Unknown,Paris,230970,8377.4,500,3,No,10,10,0,2551
+E1503,Stéphanie,Vincent,Sales,Sales Manager,2016-06-20,,Non-Binary,Nantes,193935,7331.43,500,,,9,5,0,3423
+E1035,Maggie,Renaud,Human Resources,Software Engineer,2019-05-03,,Unknown,Remote,188907,9021.32,1000,,,3,10,0,2376
+E1755,Noémi,Millet,Human Resources,Backend Engineer,2022-03-06,,NaN,Lyon,54491,2032.45,200,,No,6,5,0,1338
+E1307,Véronique,Aubry,Marketing,Accountant,2022-11-09,,Unknown,Montpellier,134169,5220.53,0,5,No,10,3,0,1090
+E1452,Benoît,Foucher,Finance,Sales Manager,2021-05-24,2023-04-21,Non-Binary,Bordeaux,237445,8164.96,500,1,No,9,3,1,697
+E1862,Nath,Grégoire,Engineering,DevOps Engineer,2023-07-25,,Non-Binary,Paris,151689,5658.33,0,,No,7,5,0,832
+E1839,Sophie,Bourdon,Human Resources,Specialist,2017-11-27,,NaN,Montpellier,55439,1910.83,1200,,No,5,5,0,2898
+E1542,Frédéric,Rocher,Engineering,Content Strategist,2020-12-21,,NaN,Nantes,214209,5093.48,500,,,2,10,0,1778
+E1142,Léon,Marin,Sales,Technical Lead,2023-03-04,,Non-Binary,Lyon,103932,4521.6,200,,,7,2,0,975
+E1230,Nicole,Robin,Human Resources,VP of Sales,2022-03-14,2023-03-20,Unknown,Nantes,169478,6903.3,0,,,3,10,1,371
+E1110,Frédérique,Humbert,Sales,Payroll Specialist,2024-07-14,,Unknown,Nantes,216126,10373.5,0,,Yes,8,10,0,477
+E1966,Joséphine,Chauveau,Human Resources,Sales Manager,2019-12-23,,NaN,Nantes,77153,2378.11,1200,4,Yes,10,10,0,2142
+E1583,Alexandre,Humbert,Human Resources,Machine Learning Engineer,2021-09-28,2024-10-21,Unknown,Paris,173956,5610.73,0,5,No,7,8,1,1119
+E1053,Nicolas,Germain,Finance,QA Engineer,2024-07-03,2025-07-04,NaN,Remote,184275,4375.5,1000,3,No,2,1,1,366
+E1543,Gilles,Joseph,Sales,People Analyst,2023-07-23,,Male,Paris,128139,3607.06,200,1,Yes,3,6,0,834
+E1636,Corinne,Blanchard,Sales,Specialist,2019-11-17,2021-02-05,NaN,Bordeaux,62073,1711.15,1000,4,Yes,4,6,1,446
+E1328,Nicole,Robert,Sales,DevOps Engineer,2019-09-18,,Unknown,Lyon,136584,4862.96,1000,2,No,1,8,0,2238
+E1856,Agnès,Thibault,Engineering,People Analyst,2024-10-25,,Unknown,Nantes,66331,1565.5,1000,,,5,9,0,374
+E1355,Caroline,Valentin,Human Resources,Social Media Manager,2020-11-21,,Female,Bordeaux,126646,4984.85,500,1,No,5,7,0,1808
+E1381,Auguste,Huet,Human Resources,People Analyst,2020-03-28,,Female,Montpellier,163437,7017.29,200,1,No,9,10,0,2046
+E1656,Isaac,Grégoire,Finance,VP of Sales,2021-12-12,,Non-Binary,Lyon,141493,3063.28,1200,,,10,4,0,1422
+E1086,Denis,Merle,Marketing,VP of Sales,2023-03-25,,Female,Remote,160855,4355.32,500,3,Yes,6,9,0,954
+E1111,Adèle,Costa,Marketing,DevOps Engineer,2023-03-10,,NaN,Nantes,220253,8302.46,200,,,6,3,0,969
+E1431,Olivier,Hamel,Engineering,Senior Software Engineer,2020-12-20,,Male,Remote,121517,2982.13,1200,3,Yes,8,7,0,1779
+E1513,André,Millet,Sales,Product Marketing Manager,2021-11-24,,Female,Remote,209247,6538.1,0,,Yes,3,5,0,1440
+E1861,Catherine,Roussel,Finance,Digital Marketing Analyst,2021-03-07,,Non-Binary,Lyon,184099,7211.66,1000,1,No,7,10,0,1702
+E1454,Brigitte,Raynaud,Engineering,Coordinator,2023-04-07,2025-03-31,NaN,Montpellier,182290,7610.76,200,5,Yes,1,1,1,724
+E1447,Jacques,Morel,Engineering,HR Data Scientist,2019-03-24,,Non-Binary,Nantes,230731,6515.38,0,,,6,7,0,2416
+E1720,Françoise,Thibault,Finance,Compensation Analyst,2020-07-11,,NaN,Nantes,147897,5684.93,1200,1,Yes,8,7,0,1941
+E1413,Astrid,Mary,Engineering,Specialist,2020-08-25,2022-01-07,Unknown,Lyon,180917,7824.44,0,1,No,4,3,1,500
+E1820,Sébastien,Étienne,Sales,Associate,2020-01-07,2023-06-18,Unknown,Bordeaux,151113,7232.36,0,,No,10,2,1,1258
+E1935,Aimé,Raymond,Engineering,VP of Sales,2016-02-27,2024-03-21,Non-Binary,Lyon,72458,1661.01,200,5,No,1,5,1,2945
+E1753,Victoire,Chauvet,Engineering,People Analyst,2018-04-08,,Non-Binary,Bordeaux,58259,1309.39,1000,,,6,7,0,2766
+E1349,Suzanne,Mary,Human Resources,Software Engineer,2021-08-12,,Non-Binary,Montpellier,170139,7888.91,1200,1,No,6,6,0,1544
+E1575,Marguerite,Paris,Human Resources,HR Machine Learning Engineer,2021-06-10,,Non-Binary,Remote,93268,3292.14,200,3,No,1,7,0,1607
+E1854,Sophie,Berthelot,Marketing,Regional Sales Director,2023-03-14,,Non-Binary,Paris,43799,1176.68,200,5,No,8,10,0,965
+E1694,Laurent,Bonnet,Unknown,Compensation Analyst,2020-05-09,2023-02-09,Male,Nantes,215208,8355.51,1000,2,No,2,10,1,1006
+E1161,Juliette,Raynaud,Engineering,HR Coordinator,2016-04-13,2022-04-05,Female,Montpellier,240140,6694.53,1000,3,No,4,3,1,2183
+E1507,Alex,Marchal,Human Resources,People Analyst,2021-12-30,2024-04-11,Male,Lyon,243866,12051.58,200,4,No,10,7,1,833
+E1018,Margaux,Prévost,Human Resources,Payroll Specialist,2017-02-02,,Non-Binary,Lyon,219007,4611.55,1000,5,No,7,1,0,3196
+E1819,Sébastien,Charrier,Engineering,Sales Manager,2023-01-17,,Male,Paris,222145,7424.05,0,1,No,8,2,0,1021
+E1696,Camille,Roussel,Sales,Machine Learning Engineer,2020-10-07,2022-11-22,Unknown,Remote,73207,3537.87,500,,,1,5,1,776
+E1132,Pauline,Gallet,Sales,Coordinator,2017-06-06,2020-01-24,Unknown,Montpellier,184288,8569.29,500,2,No,10,9,1,962
+E1314,Élisabeth,Lebreton,Engineering,Customer Success Manager,2023-03-27,,NaN,Remote,160616,3429.88,1200,,,4,8,0,952
+E1305,Édith,Lévêque,Sales,Data Scientist,2019-01-02,2020-10-26,NaN,Montpellier,98725,3276.86,200,4,No,10,2,1,663
+E1277,Julie,Gonzalez,Sales,Senior Software Engineer,2020-06-20,2021-08-17,NaN,Lyon,85687,3995.82,1200,3,No,2,7,1,423
+E1582,Gilbert,Voisin,Finance,Account Executive,2020-12-02,,Non-Binary,Montpellier,98334,4353.82,500,,,2,10,0,1797
+E1801,Clémence,Salmon,Human Resources,FP&A Manager,2024-06-27,2025-08-31,Male,Paris,109466,3063.88,200,5,No,8,1,1,430
+E1492,Monique,Blin,Engineering,Software Engineer,2021-12-15,2023-10-02,Female,Remote,68581,2866.53,1200,5,No,1,6,1,656
+E1666,Arnaude,Lebon,Human Resources,Senior Accountant,2020-11-11,,NaN,Paris,227882,4951.96,500,5,Yes,7,9,0,1818
+E1546,Maurice,Adam,Human Resources,Senior Accountant,2020-06-18,2024-03-21,Unknown,Montpellier,103838,3316.79,1200,,,7,5,1,1372
+E1148,Luce,Lenoir,Engineering,Backend Engineer,2019-09-15,,Unknown,Bordeaux,242394,7084.87,500,,,7,9,0,2241
+E1471,Claude,Vincent,Engineering,Brand Manager,2022-07-27,,Unknown,Remote,202064,4814.1,1000,3,No,6,5,0,1195
+E1767,Maggie,Schneider,Sales,Accountant,2022-07-07,2024-07-13,Unknown,Montpellier,50903,1060.29,500,2,No,2,1,1,737
+E1678,Nathalie,Pires,Unknown,Senior Software Engineer,2024-09-25,2025-10-12,Unknown,Remote,183633,6084.9,1200,2,No,10,1,1,382
+E1587,Denis,Collet,Marketing,HR Data Scientist,2016-03-27,,Female,Remote,92531,3317.5,1000,2,No,5,6,0,3508
+E1188,Éléonore,Petitjean,Sales,Graphic Designer,2023-09-14,,Female,Paris,199245,4270.18,1200,2,No,8,9,0,781
+E1588,Daniel,Pages,Finance,Associate,2019-03-08,,Non-Binary,Lyon,70430,2416.8,0,,,8,8,0,2432
+E1849,Colette,Benoit,Marketing,Internal Auditor,2018-09-18,2025-01-22,Non-Binary,Montpellier,83328,3920.05,1200,,No,10,6,1,2318
+E1835,Marcelle,Aubry,Finance,VP of Sales,2017-11-12,,Non-Binary,Remote,215681,7468.87,0,5,No,1,8,0,2913
+E1155,Michèle,Jourdan,Finance,Backend Engineer,2015-12-05,,Unknown,Montpellier,244657,10031.76,0,3,No,4,2,0,3621
+E1661,Claire,Morvan,Human Resources,HR Coordinator,2019-09-28,2022-01-15,Unknown,Paris,69782,3072.09,0,1,No,6,3,1,840
+E1982,Hélène,Jean,Sales,DevOps Engineer,2024-05-18,,Unknown,Bordeaux,105443,2875.76,1000,3,No,8,3,0,534
+E1462,Michel,Brun,Human Resources,Inside Sales Rep,2019-05-07,,Unknown,Lyon,218472,5619.9,200,,No,10,10,0,2372
+E1031,Charlotte,Menard,Sales,Data Scientist,2019-05-06,,NaN,Paris,202772,9789.02,1000,,,2,2,0,2373
+E1802,Renée,Noël,Finance,Regional Sales Director,2019-03-04,,Male,Nantes,101655,4203.78,500,,No,4,2,0,2436
+E1777,Jean,Étienne,Human Resources,QA Engineer,2018-08-13,,Male,Lyon,204712,9158.07,1200,,,1,1,0,2639
+E1673,Gilles,Vasseur,Engineering,Sales Development Rep,2018-12-27,,Male,Nantes,145054,5591.03,200,2,Yes,9,10,0,2503
+E1718,Antoinette,Guérin,Engineering,Customer Success Manager,2023-10-10,,Non-Binary,Bordeaux,62228,1512.05,1200,4,No,7,1,0,755
+E1390,Vincent,Joly,Finance,Accountant,2018-10-04,2021-12-31,NaN,Lyon,237618,11151.65,500,1,No,5,8,1,1184
+E1719,François,Laurent,Finance,VP of Sales,2017-11-18,2023-04-09,Female,Paris,209853,5315.22,500,1,No,10,7,1,1968
+E1231,Suzanne,Wagner,Sales,Regional Sales Director,2017-05-20,,Unknown,Lyon,176614,8292.63,200,,No,10,10,0,3089
+E1210,Adrien,Sauvage,Finance,Marketing Manager,2022-06-17,2023-07-27,NaN,Nantes,174723,5703.85,200,3,No,6,3,1,405
+E1936,Nicolas,Perrin,Sales,Account Executive,2015-12-26,,Male,Montpellier,74809,3682.41,1000,3,No,4,2,0,3600
+E1434,Andrée,Rocher,Finance,HR Coordinator,2016-01-10,,Unknown,Paris,129589,3722.19,0,3,No,10,2,0,3585
+E1125,Marcelle,Collet,Sales,Account Executive,2015-12-07,2021-02-21,Non-Binary,Remote,116958,5433.04,500,,No,4,10,1,1903
+E1404,Valérie,Mathieu,Sales,Payroll Specialist,2017-03-06,,Unknown,Paris,166742,7313.06,1000,,,2,9,0,3164
+E1209,Charles,Bertin,Finance,Sales Development Rep,2017-02-08,,NaN,Montpellier,224304,10380.02,1000,3,Yes,7,8,0,3190
+E1998,Monique,Reynaud,Engineering,Accountant,2021-02-13,,Unknown,Bordeaux,86839,2261.76,200,,,8,2,0,1724
+E1416,Margaud,Marty,Unknown,Inside Sales Rep,2016-11-28,,Unknown,Nantes,131022,3149.03,0,,,7,7,0,3262
+E1376,Laurent,Pruvost,Human Resources,Coordinator,2020-06-20,,NaN,Paris,170810,6624.24,1200,1,No,3,3,0,1962
+E1630,Marcelle,Mallet,Sales,HR Business Partner,2018-02-07,2024-01-07,Female,Bordeaux,59928,1821.21,500,,Yes,4,6,1,2160
+E1392,Antoinette,Maillot,Engineering,Financial Analyst,2017-06-07,,NaN,Montpellier,114469,3725.47,500,,,6,4,0,3071
+E1548,Élodie,Lelièvre,Sales,Accountant,2017-02-18,2023-09-08,Unknown,Paris,96459,3263.36,0,,,10,7,1,2393
+E1083,Inès,Lemoine,Human Resources,Content Strategist,2016-02-18,,Unknown,Nantes,103776,2445.92,200,1,No,5,9,0,3546
+E1759,Catherine,Valentin,Marketing,Controller,2022-09-05,,Unknown,Nantes,58298,2054.25,500,2,Yes,1,7,0,1155
+E1438,Honoré,Lefebvre,Human Resources,Payroll Specialist,2020-12-26,2024-11-04,Male,Montpellier,71101,1994.01,500,3,No,3,9,1,1409
+E1221,Alice,Roux,Human Resources,VP of Sales,2023-04-18,,Non-Binary,Montpellier,86101,3625.78,0,,,1,9,0,930
+E1893,Agathe,Bernier,Finance,Sales Development Rep,2018-04-08,,Non-Binary,Nantes,221448,6245.23,0,,Yes,7,5,0,2766
+E1472,Marie,Perrier,Sales,Regional Sales Director,2019-12-31,,Female,Nantes,158884,5772.5,200,,No,10,6,0,2134
+E1082,Alain,Clerc,Human Resources,Inside Sales Rep,2018-03-31,2022-09-08,Male,Remote,183453,4634.25,500,4,No,2,4,1,1622
+E1932,Nathalie,Fernandes,Sales,Software Engineer,2022-06-11,2024-12-22,NaN,Montpellier,125341,6262.06,1200,4,Yes,3,4,1,925
+E1576,Michelle,Martin,Sales,Inside Sales Rep,2020-05-14,,Male,Paris,212972,4899.48,200,4,No,4,7,0,1999
+E1599,Roland,Gay,Human Resources,Sales Manager,2022-10-17,,Unknown,Lyon,174579,5557.98,1200,1,No,1,5,0,1113
+E1272,Isabelle,Leroux,Finance,Compensation Analyst,2017-05-30,,Male,Paris,94389,3055.39,0,,No,9,7,0,3079
+E1764,Éric,Guichard,Sales,Product Marketing Manager,2022-09-01,,Female,Nantes,88427,2274.86,500,4,No,2,2,0,1159
+E1703,Grégoire,Hoareau,Sales,Technical Lead,2018-04-18,,NaN,Montpellier,197257,4966.98,500,,No,7,5,0,2756
+E1387,Caroline,Dias,Human Resources,HR Data Scientist,2023-03-10,2025-05-24,Non-Binary,Paris,232665,6198.78,1200,3,Yes,4,8,1,806
+E1318,Théodore,Jean,Sales,VP of Sales,2024-04-14,,Female,Lyon,118202,5790.68,1000,,,8,8,0,568
+E1234,Olivie,Huet,Sales,Compensation Analyst,2024-02-06,,NaN,Lyon,105754,2720.03,1000,4,No,9,4,0,636
+E1476,André,Devaux,Finance,HR Coordinator,2019-02-11,,Unknown,Lyon,184408,5517.99,500,,,8,8,0,2457
+E1017,Maurice,Buisson,Engineering,Internal Auditor,2020-02-27,,Unknown,Lyon,184008,6366.22,1000,3,No,5,8,0,2076
+E1076,Eugène,Bonnin,Engineering,QA Engineer,2018-01-11,,Non-Binary,Remote,244193,5028.1,1000,,No,3,4,0,2853
+E1200,Pierre,Jacquet,Finance,Senior Software Engineer,2022-05-17,2025-01-21,Female,Paris,41405,1647.93,0,,No,4,1,1,980
+E1642,Xavier,Regnier,Finance,Inside Sales Rep,2020-01-09,,Unknown,Nantes,220307,6903.31,1000,3,Yes,3,4,0,2125
+E1758,Arnaude,Henry,Sales,Associate,2022-04-21,2023-07-05,Non-Binary,Remote,102719,2490.42,1000,1,No,3,7,1,440
+E1105,Alexandria,Dubois,Sales,Associate,2017-04-27,,Female,Nantes,70302,1910.97,500,,,6,6,0,3112
+E1352,Christiane,Becker,Sales,Sales Manager,2018-08-13,,Unknown,Paris,223121,9829.36,200,,,10,6,0,2639
+E1558,Julien,Devaux,Human Resources,HR Business Partner,2019-08-05,,Unknown,Nantes,80237,2130.24,200,2,No,6,10,0,2282
+E1953,Luc,Barbe,Sales,Engineering Manager,2021-12-31,,Male,Montpellier,85546,3233.05,0,,,10,10,0,1403
+E1061,Hortense,Da Silva,Finance,Regional Sales Director,2024-01-15,,Unknown,Remote,116756,4782.55,200,3,No,10,3,0,658
+E1292,Matthieu,Vincent,Sales,HR Machine Learning Engineer,2022-01-03,,Unknown,Remote,164878,6851.21,1200,5,No,5,1,0,1400
+E1639,Jeannine,Bertrand,Sales,Associate,2022-06-24,2024-03-22,Unknown,Lyon,81209,3203.55,200,5,No,5,9,1,637
+E1773,Margaud,Hubert,Engineering,Specialist,2018-03-18,,Female,Lyon,226018,10747.75,1200,,Yes,6,5,0,2787
+E1860,Audrey,Bernier,Sales,Payroll Specialist,2023-08-17,2024-10-16,Non-Binary,Nantes,113292,2818.28,500,1,No,1,1,1,426
+E1441,Michelle,Imbert,Human Resources,Solutions Engineer,2018-11-28,,Male,Paris,197450,7310.98,500,,No,9,9,0,2532
+E1388,Juliette,Coste,Marketing,Customer Success Manager,2023-01-03,,Unknown,Remote,181037,8530.29,1000,2,No,6,4,0,1035
+E1991,Jules,Henry,Engineering,SEO Specialist,2016-08-15,,Male,Nantes,135713,3282.08,1000,3,No,1,2,0,3367
+E1194,Robert,Legros,Sales,Software Engineer,2022-10-23,,Male,Paris,70728,2453.24,200,1,No,7,5,0,1107
+E1011,Michel,Delaunay,Engineering,Talent Acquisition Specialist,2024-08-15,,Unknown,Nantes,90058,3403.04,0,4,No,6,7,0,445
+E1676,Gabrielle,Bouvier,Human Resources,Specialist,2018-05-17,,Unknown,Bordeaux,149257,3259.53,500,,,9,10,0,2727
+E1957,Olivie,Marie,Sales,VP of Sales,2017-09-19,,Unknown,Paris,145939,3965.57,500,,Yes,5,6,0,2967
+E1229,Adrien,Munoz,Sales,Sales Development Rep,2023-03-22,,Unknown,Remote,63420,1470.54,1000,,,7,10,0,957
+E1774,Daniel,Clerc,Sales,Compensation Analyst,2021-09-29,,Unknown,Montpellier,218764,9602.26,500,,No,5,1,0,1496
+E1064,Olivier,Perrot,Marketing,Analyst,2022-06-15,,NaN,Lyon,90079,1882.07,1200,2,Yes,3,8,0,1237
+E1800,Charlotte,Ramos,Sales,Digital Marketing Analyst,2020-10-03,,Non-Binary,Paris,235716,10464.52,200,5,Yes,2,4,0,1857
+E1564,Aurore,Loiseau,Sales,Internal Auditor,2023-03-13,2024-03-29,Unknown,Bordeaux,45483,1137.38,200,,No,8,7,1,382
+E1597,Franck,Martineau,Human Resources,Internal Auditor,2021-10-28,,Male,Remote,129007,3191.67,1200,4,No,6,2,0,1467
+E1266,Claude,Payet,Finance,HR Business Partner,2019-08-28,2021-12-23,NaN,Nantes,213757,10023.31,200,3,No,7,10,1,848
+E1912,Josette,Deschamps,Human Resources,Account Executive,2020-05-30,2022-02-25,Unknown,Montpellier,181442,4085.3,0,5,No,1,9,1,636
+E1143,Thomas,Joubert,Human Resources,Technical Lead,2023-04-03,,Female,Lyon,167338,5688.95,200,,,3,10,0,945
+E1059,Daniel,Maurice,Sales,Specialist,2024-03-03,,Unknown,Nantes,106329,2350.23,0,5,No,4,6,0,610
+E1485,Honoré,Chauvin,Marketing,Backend Engineer,2020-12-06,2025-05-30,Unknown,Lyon,201244,5818.51,200,3,No,10,10,1,1636
+E1002,Théophile,Valentin,Engineering,Frontend Engineer,2024-07-11,,Male,Paris,232863,9730.25,1000,1,No,1,2,0,480
+E1555,Océane,Monnier,Marketing,Compensation Analyst,2018-08-05,2020-01-27,Non-Binary,Nantes,246350,6234.68,500,,No,4,8,1,540
+E1506,Michèle,Guyot,Sales,Senior Software Engineer,2024-04-03,,NaN,Nantes,218770,4406.9,200,2,Yes,4,5,0,579
+E1698,Roger,Gaudin,Unknown,HR Data Scientist,2018-05-03,2025-05-11,Unknown,Montpellier,195433,6006.0,0,3,No,9,7,1,2565
+E1049,Claudine,Hervé,Engineering,Internal Auditor,2019-08-27,2025-05-04,Female,Bordeaux,159179,5980.81,0,3,No,1,6,1,2077
+E1809,François,Chevalier,Engineering,Internal Auditor,2022-08-31,,Unknown,Lyon,134656,5189.02,1200,3,No,4,10,0,1160
+E1365,Alex,Gomes,Sales,Analyst,2024-03-27,2025-09-02,NaN,Montpellier,63365,2612.81,1000,,No,2,3,1,524
+E1415,Alexandrie,Sanchez,Finance,Talent Acquisition Specialist,2024-01-26,,NaN,Remote,223583,4475.36,1200,,,2,3,0,647
+E1162,Pierre,Ollivier,Human Resources,Analyst,2018-05-12,,Male,Bordeaux,82631,2400.67,1000,4,No,3,8,0,2732
+E1834,Agathe,Weiss,Finance,Regional Sales Director,2022-02-04,,NaN,Lyon,166239,8121.41,0,5,Yes,2,7,0,1368
+E1537,Claude,Brunel,Unknown,Senior Accountant,2016-11-27,,Non-Binary,Montpellier,214621,5510.01,1000,3,No,10,8,0,3263
+E1391,Thomas,Dijoux,Sales,Analyst,2021-01-30,,Unknown,Lyon,183949,7684.36,1000,,No,1,7,0,1738
+E1468,Alix,Gaillard,Sales,Frontend Engineer,2023-10-30,,Unknown,Montpellier,83286,3598.24,1000,,,3,9,0,735
+E1451,Christine,Lombard,Sales,Engineering Manager,2022-10-21,,NaN,Montpellier,162147,3965.84,0,5,No,10,10,0,1109
+E1297,Aimé,Benoit,Sales,HR Machine Learning Engineer,2023-03-15,,Female,Lyon,62764,1476.37,1200,4,No,10,1,0,964
+E1771,Henriette,Godard,Finance,VP of Sales,2018-11-02,,Unknown,Nantes,165670,6380.78,200,5,No,10,9,0,2558
+E1074,Agathe,Brun,Sales,Coordinator,2015-11-14,2019-03-26,Male,Lyon,78899,3346.95,1000,,No,1,10,1,1228
+E1070,Marianne,Gros,Finance,Account Executive,2016-06-15,2021-05-27,Unknown,Paris,104599,2680.96,500,,No,7,4,1,1807
+E1960,Sébastien,Marques,Sales,Sales Manager,2021-04-17,,Unknown,Remote,58663,1748.43,500,,No,6,7,0,1661
+E1574,Margaud,Lacombe,Sales,Accountant,2020-11-15,2024-07-15,Female,Remote,145119,4713.43,500,1,Yes,6,2,1,1338
+E1632,Nath,Gosselin,Sales,Account Executive,2019-01-23,,Unknown,Montpellier,240866,11265.33,500,5,Yes,3,2,0,2476
+E1557,Roland,Gilles,Marketing,HR Business Partner,2018-09-16,,Unknown,Remote,143950,5453.49,1200,,,1,5,0,2605
+E1926,Élisabeth,Besnard,Sales,Financial Analyst,2019-08-21,,NaN,Montpellier,206372,7240.78,1200,,No,1,8,0,2266
+E1036,Charles,Pottier,Engineering,Analyst,2015-11-24,,Male,Montpellier,123539,4376.19,0,4,Yes,6,3,0,3632
+E1282,Lucy,Da Silva,Human Resources,Regional Sales Director,2017-01-05,,Unknown,Montpellier,249974,12452.74,1000,1,No,9,2,0,3224
+E1962,Marguerite,Godard,Sales,Frontend Engineer,2023-06-12,,Unknown,Remote,105754,2186.42,200,1,No,8,2,0,875
+E1566,Roger,Roche,Marketing,Inside Sales Rep,2019-02-17,,Non-Binary,Paris,142288,6920.28,200,,Yes,8,9,0,2451
+E1024,Robert,Gros,Engineering,Graphic Designer,2019-01-27,,Male,Remote,229849,8475.39,1000,,No,3,6,0,2472
+E1205,Arnaude,Bernier,Engineering,Specialist,2016-03-08,2022-02-26,Male,Lyon,215684,7976.38,500,1,No,9,9,1,2181
+E1659,Colette,Dos Santos,Finance,Talent Acquisition Specialist,2022-12-07,,Unknown,Bordeaux,193530,9316.85,1200,3,No,8,1,0,1062
+E1368,Alexandrie,Renaud,Sales,Account Executive,2021-06-18,,Female,Remote,196481,6336.58,1000,,No,5,6,0,1599
+E1723,Alice,Camus,Marketing,HR Data Scientist,2023-09-14,,Unknown,Remote,225284,9253.04,200,,No,2,8,0,781
+E1845,Michelle,Pierre,Human Resources,Digital Marketing Analyst,2024-03-04,,Unknown,Remote,137756,6327.29,500,1,Yes,2,4,0,609
+E1803,Augustin,Costa,Marketing,Payroll Specialist,2017-07-06,,Unknown,Paris,246554,7799.65,0,2,No,3,1,0,3042
+E1604,Alphonse,Guyot,Finance,Machine Learning Engineer,2022-03-09,,Non-Binary,Paris,132188,5190.42,200,,,3,6,0,1335
+E1634,Thérèse,Renaud,Human Resources,HR Business Partner,2015-11-17,,Female,Bordeaux,169353,3761.4,1200,,No,2,9,0,3639
+E1776,Georges,Gimenez,Sales,Internal Auditor,2019-10-18,,Non-Binary,Remote,241308,5291.91,1200,4,No,3,7,0,2208
+E1517,Maurice,Marchand,Engineering,Inside Sales Rep,2023-05-11,,Unknown,Nantes,68415,1679.98,1000,5,No,4,10,0,907
+E1838,Suzanne,Klein,Unknown,Associate,2015-12-08,,Female,Nantes,193779,4957.86,200,,Yes,6,1,0,3618
+E1749,Éléonore,Garcia,Finance,Software Engineer,2018-02-04,,Female,Nantes,202392,8465.84,500,5,No,2,5,0,2829
+E1310,Alain,Mahe,Engineering,Accountant,2018-08-10,2021-03-17,Female,Montpellier,146012,6311.88,200,5,Yes,7,9,1,950
+E1113,Thibaut,Wagner,Finance,HR Data Scientist,2020-06-17,,Non-Binary,Paris,64915,3192.52,1000,3,No,10,10,0,1965
+E1688,Alix,Benard,Finance,HR Machine Learning Engineer,2017-09-25,,Unknown,Bordeaux,182840,8255.34,200,,,1,6,0,2961
+E1015,Émile,Albert,Sales,Controller,2019-03-24,2023-12-19,NaN,Remote,205470,8535.35,0,,No,5,10,1,1731
+E1958,Daniel,Guillet,Finance,Specialist,2022-08-25,,Male,Bordeaux,223170,4523.12,1200,5,Yes,6,4,0,1166
+E1445,Jeanne,Coste,Finance,Solutions Engineer,2021-12-29,,Unknown,Lyon,197577,5587.93,1000,3,No,7,4,0,1405
+E1705,Thibault,Rey,Marketing,People Analyst,2018-06-18,,Unknown,Bordeaux,140231,5733.8,500,1,No,6,6,0,2695
+E1120,Christiane,Bouchet,Sales,Customer Success Manager,2018-07-19,,Male,Montpellier,112007,3915.26,200,,,4,3,0,2664
+E1806,Franck,Descamps,Sales,HR Machine Learning Engineer,2020-08-23,,Non-Binary,Remote,182560,6646.9,200,4,No,1,10,0,1898
+E1585,Marie,Bailly,Human Resources,Inside Sales Rep,2022-05-20,,Unknown,Lyon,73294,2512.31,0,1,No,8,8,0,1263
+E1560,Marcelle,Louis,Finance,Solutions Engineer,2023-02-04,,NaN,Lyon,157977,3676.68,1200,,No,9,3,0,1003
+E1304,Dominique,Moulin,Finance,Digital Marketing Analyst,2016-11-20,,Unknown,Remote,70807,1953.97,1000,,No,3,6,0,3270
+E1146,Mathilde,Rodriguez,Human Resources,HR Machine Learning Engineer,2022-11-16,,Unknown,Remote,183998,4398.07,500,2,No,8,7,0,1083
+E1301,Marie,Lecomte,Finance,DevOps Engineer,2019-09-22,2024-09-17,Male,Lyon,242617,6650.71,200,1,No,10,1,1,1822
+E1382,Alexandrie,Clerc,Human Resources,Digital Marketing Analyst,2017-08-24,,Unknown,Paris,114479,3003.26,500,,Yes,9,2,0,2993
+E1182,William,Delahaye,Sales,Inside Sales Rep,2017-11-06,,Male,Nantes,182484,6646.05,1000,,No,7,1,0,2919
+E1897,Corinne,Chauveau,Sales,Technical Lead,2024-01-05,2025-07-15,Female,Remote,70443,2689.59,1200,,,1,8,1,557
+E1007,Philippine,Hamel,Engineering,People Analyst,2023-04-04,,Unknown,Montpellier,197596,8443.82,1000,3,Yes,4,2,0,944
+E1512,Richard,Berger,Finance,FP&A Manager,2016-06-08,,Unknown,Paris,72558,2405.33,1200,,,3,4,0,3435
+E1827,Zacharie,Guillot,Finance,SEO Specialist,2017-12-22,,Non-Binary,Nantes,98550,4564.26,1000,1,No,2,10,0,2873
+E1075,Andrée,Munoz,Engineering,Internal Auditor,2021-12-17,2024-01-20,Female,Lyon,161100,7666.85,500,,No,9,8,1,764
+E1320,Martine,Bodin,Human Resources,Internal Auditor,2024-03-20,,Male,Bordeaux,215259,6466.49,200,2,No,6,8,0,593
+E1269,Amélie,Guillet,Human Resources,SEO Specialist,2021-03-07,2022-11-03,NaN,Nantes,65643,1484.91,1000,,No,1,10,1,606
+E1829,Édith,Bertin,Human Resources,Inside Sales Rep,2018-12-27,,NaN,Nantes,217673,7706.84,1000,4,No,2,8,0,2503
+E1347,Adèle,Lebon,Sales,Senior Accountant,2024-10-02,,NaN,Bordeaux,86113,2707.44,500,3,No,7,5,0,397
+E1660,Jacques,Hervé,Engineering,Solutions Engineer,2019-02-24,2021-01-15,Non-Binary,Lyon,222747,10289.05,1200,4,No,9,1,1,691
+E1356,Catherine,Traore,Human Resources,Backend Engineer,2020-10-14,,Unknown,Remote,168283,5858.21,1200,5,No,8,10,0,1846
+E1085,Augustin,Reynaud,Human Resources,HR Coordinator,2017-12-18,,Male,Lyon,188695,5711.62,500,,Yes,7,1,0,2877
+E1757,Nicole,Lemaître,Human Resources,Payroll Specialist,2024-09-09,2025-09-26,Non-Binary,Remote,127181,4814.93,500,1,No,4,10,1,382
+E1424,Nicolas,Richard,Sales,HR Business Partner,2023-01-29,2024-08-26,Unknown,Montpellier,57431,1498.01,1200,,,6,1,1,575
+E1171,Andrée,Noël,Finance,Frontend Engineer,2015-12-21,,Male,Bordeaux,129390,4760.47,1000,,,10,9,0,3605
+E1813,Noël,Navarro,Marketing,Solutions Engineer,2020-06-09,2022-04-14,Unknown,Paris,80412,3282.85,200,,,10,2,1,674
+E1769,Chantal,Perrin,Engineering,Controller,2017-01-21,,Female,Bordeaux,44016,1304.07,1000,,Yes,10,4,0,3208
+E1928,Thibaut,Marin,Human Resources,Customer Success Manager,2020-08-13,,NaN,Montpellier,180265,5393.91,1000,,,9,1,0,1908
+E1084,Claudine,Riou,Human Resources,Coordinator,2022-04-12,,Female,Remote,65256,2720.65,500,4,No,4,2,0,1301
+E1841,Adèle,Ledoux,Human Resources,Specialist,2017-08-14,,Unknown,Nantes,75244,3223.31,1200,3,Yes,7,4,0,3003
+E1533,Georges,Cousin,Finance,Senior Accountant,2018-10-05,2025-05-15,Non-Binary,Lyon,52701,1977.01,500,,,9,10,1,2414
+E1247,Lucas,Bouvet,Marketing,HR Coordinator,2022-01-21,2025-05-28,Male,Bordeaux,120581,3856.58,200,,,3,3,1,1223
+E1896,Andrée,Schmitt,Human Resources,Internal Auditor,2019-09-06,,Unknown,Paris,182985,5789.28,1000,,Yes,1,2,0,2250
+E1796,François,Tessier,Sales,Customer Success Manager,2021-02-22,,Male,Bordeaux,216493,6339.85,500,5,Yes,3,3,0,1715
+E1357,Valentine,Garnier,Sales,Inside Sales Rep,2017-11-10,,Male,Nantes,87945,4392.7,500,4,Yes,5,8,0,2915
+E1535,Dorothée,Dos Santos,Sales,Solutions Engineer,2015-12-01,,NaN,Paris,198756,4141.79,500,,Yes,9,8,0,3625
+E1788,Sabine,Berthelot,Finance,Senior Accountant,2023-12-08,,Unknown,Montpellier,42698,884.8,1000,3,No,4,10,0,696
+E1790,Laurence,Lefèvre,Finance,Customer Success Manager,2017-07-17,,Unknown,Nantes,57218,1513.8,1200,,No,3,5,0,3031
+E1766,Émile,Chevallier,Human Resources,HR Business Partner,2019-05-24,,Unknown,Bordeaux,166831,7427.58,1200,1,No,5,10,0,2355
+E1137,Gérard,Blanc,Human Resources,Controller,2017-05-27,,Unknown,Lyon,52551,2024.91,1000,4,No,7,7,0,3082
+E1794,Jean,Marchand,Human Resources,Associate,2023-10-17,,NaN,Lyon,126520,2980.76,1200,,No,5,2,0,748
+E1785,Pierre,Roche,Marketing,People Analyst,2023-09-09,2025-08-26,Unknown,Bordeaux,59006,2936.02,0,3,No,5,5,1,717
+E1425,Philippine,Teixeira,Human Resources,Sales Development Rep,2016-08-30,2022-06-12,Non-Binary,Lyon,230201,10200.95,1000,,,9,3,1,2112
+E1013,Alphonse,Clerc,Finance,Payroll Specialist,2018-12-24,,Non-Binary,Lyon,40323,1919.27,1000,1,Yes,6,1,0,2506
+E1465,Édith,Pruvost,Sales,Account Executive,2016-04-15,,Male,Montpellier,244366,11800.79,1200,,,10,2,0,3489
+E1699,Agathe,Pruvost,Finance,Brand Manager,2022-03-10,2025-09-13,Female,Nantes,137533,4657.64,1200,,No,3,6,1,1283
+E1798,Bertrand,Hamon,Engineering,Solutions Engineer,2018-11-24,2022-03-20,Non-Binary,Lyon,98436,4749.55,200,5,Yes,8,4,1,1212
+E1348,Denis,Humbert,Sales,Solutions Engineer,2020-03-14,,NaN,Lyon,75276,1531.32,1200,,No,3,3,0,2060
+E1114,Anastasie,Colin,Engineering,Content Strategist,2017-06-01,,NaN,Bordeaux,72633,2418.14,1000,3,No,8,7,0,3077
+E1931,Marthe,Léger,Engineering,Content Strategist,2020-12-05,,NaN,Bordeaux,196823,4762.74,200,,,9,6,0,1794
+E1944,Robert,Dupont,Sales,Machine Learning Engineer,2021-07-07,2022-11-20,NaN,Bordeaux,194706,4715.04,200,1,Yes,3,5,1,501
+E1591,Isabelle,Jacques,Sales,Sales Development Rep,2023-05-20,,Unknown,Bordeaux,118415,5168.41,0,,No,7,4,0,898
+E1295,Maggie,Lecomte,Sales,Analyst,2020-11-13,,Unknown,Remote,95075,2203.15,500,,,5,6,0,1816
+E1488,Stéphanie,Launay,Sales,Solutions Engineer,2022-01-01,2025-01-16,NaN,Nantes,245087,12151.88,500,,No,10,9,1,1111
+E1337,Caroline,Roux,Sales,VP of Sales,2023-02-22,,Unknown,Nantes,69396,3243.14,500,,,6,10,0,985
+E1959,Frédéric,Mallet,Human Resources,Accountant,2018-01-15,2024-08-17,Male,Montpellier,181620,5410.32,200,5,Yes,8,8,1,2406
+E1115,Yves,Leroux,Unknown,Brand Manager,2021-04-23,,Non-Binary,Remote,106936,4912.4,0,,,2,1,0,1655
+E1080,Thierry,Leroux,Engineering,Analyst,2019-03-28,2022-10-29,NaN,Nantes,248206,9237.51,1000,1,No,2,7,1,1311
+E1496,Richard,Grenier,Engineering,Senior Software Engineer,2021-05-20,,NaN,Remote,208918,4387.44,200,,No,1,10,0,1628
+E1743,Maryse,Lebrun,Engineering,QA Engineer,2021-02-05,,Unknown,Nantes,238660,6603.54,500,,,5,5,0,1732
+E1145,Lucie,Letellier,Sales,Marketing Manager,2017-01-29,2019-04-22,Non-Binary,Remote,57744,2732.63,500,5,No,2,1,1,813
+E1867,Théodore,Raymond,Finance,HR Machine Learning Engineer,2021-08-12,,Female,Montpellier,79135,3700.14,0,3,No,9,6,0,1544
+E2000,Léon,Baudry,Engineering,Payroll Specialist,2022-02-17,,Unknown,Paris,233102,4940.17,200,,,1,3,0,1355
+E2000,Léon,Baudry,Engineering,Payroll Specialist,2022-02-17,,Unknown,Paris,73031,3344.54,500,,,1,3,0,1355
+E1990,Alfred,Ledoux,Engineering,Product Marketing Manager,2016-01-11,2020-07-12,Non-Binary,Remote,71299,1882.93,1000,,Yes,7,2,1,1644
+E1561,Marcel,Faivre,Sales,Regional Sales Director,2018-05-09,,NaN,Montpellier,220753,4535.88,0,,,3,1,0,2735
+E1643,Margaud,Mahe,Engineering,Sales Manager,2024-07-09,,Non-Binary,Lyon,177046,8434.6,500,5,Yes,3,9,0,482
+E1192,Aurélie,Techer,Engineering,DevOps Engineer,2018-03-13,,Non-Binary,Montpellier,165673,4620.0,0,2,Yes,2,10,0,2792
+E1195,Emmanuel,Georges,Finance,Internal Auditor,2022-12-03,,Male,Montpellier,154712,5931.24,1200,3,No,4,4,0,1066
+E1071,Arnaude,Adam,Human Resources,Engineering Manager,2022-05-17,2025-01-08,Male,Montpellier,88290,3316.21,500,5,No,7,4,1,967
+E1515,Yves,Couturier,Sales,Frontend Engineer,2022-03-20,,NaN,Nantes,138836,2883.44,500,5,No,3,2,0,1324
+E1235,Christiane,Hardy,Engineering,VP of Sales,2022-07-29,,NaN,Lyon,233568,10232.41,500,,,8,5,0,1193
+E1823,René,Muller,Marketing,Internal Auditor,2016-03-28,2022-10-31,Unknown,Bordeaux,241549,7442.97,1200,,No,3,2,1,2408
+E1219,Emmanuelle,Neveu,Sales,Coordinator,2023-10-30,,Female,Nantes,249369,10809.52,500,4,No,1,7,0,735
+E1572,Marie,Richard,Engineering,People Analyst,2020-08-03,,Unknown,Montpellier,112167,4923.16,1000,5,Yes,10,7,0,1918
+E1298,Luc,Martin,Sales,HR Business Partner,2016-03-07,,NaN,Nantes,157806,4030.84,1000,4,No,6,1,0,3528
+E1030,Frédérique,Royer,Human Resources,Sales Development Rep,2020-10-22,,Non-Binary,Remote,124704,5417.31,1200,5,No,9,10,0,1838
+E1778,Anouk,Colas,Human Resources,HR Business Partner,2023-08-29,2025-01-10,NaN,Remote,235532,5006.13,500,5,No,4,1,1,500
+E1276,Margaud,Chauveau,Finance,Machine Learning Engineer,2021-01-23,,Male,Bordeaux,220691,10267.74,500,,No,9,7,0,1745
+E1040,Michèle,Lemaire,Sales,Machine Learning Engineer,2020-03-28,,Male,Bordeaux,52201,1717.72,0,2,No,5,5,0,2046
+E1122,Noémi,Petit,Engineering,Digital Marketing Analyst,2024-10-31,,Unknown,Lyon,201192,8304.03,1200,4,No,5,3,0,368
+E1635,Claire,Garcia,Human Resources,Engineering Manager,2024-02-16,,Unknown,Montpellier,107905,4017.35,0,5,Yes,6,7,0,626
+E1644,Alex,Étienne,Human Resources,Internal Auditor,2016-09-05,,Male,Remote,172298,6370.42,0,5,Yes,1,2,0,3346
+E1175,Monique,Hoarau,Finance,VP of Sales,2021-05-14,,Male,Remote,148426,3745.21,500,,,5,10,0,1634
+E1556,Adèle,Loiseau,Engineering,Compensation Analyst,2024-04-15,,Female,Lyon,109427,3863.62,200,5,No,8,1,0,567
+E1477,Michel,Delannoy,Engineering,HR Business Partner,2019-05-10,,NaN,Paris,50466,1247.53,1200,,Yes,1,3,0,2369
+E1917,Raymond,Dumas,Engineering,Regional Sales Director,2022-04-08,2024-04-08,Male,Remote,89993,2300.02,1000,1,No,7,3,1,731
+E1233,Antoine,Benoit,Finance,Sales Development Rep,2024-03-27,,Unknown,Remote,213160,5192.37,0,3,No,2,4,0,586
+E1403,Inès,Pereira,Human Resources,Controller,2021-03-06,,Unknown,Paris,91943,4175.82,1000,2,No,9,5,0,1703
+E1596,Constance,Perrot,Engineering,Sales Development Rep,2018-08-05,2020-09-25,Unknown,Paris,86266,3302.61,1200,,No,5,2,1,782
+E1315,Arnaude,Guillou,Finance,Technical Lead,2018-07-30,,Female,Montpellier,73048,1903.88,0,,,3,1,0,2653
+E1489,Émile,Faivre,Human Resources,Coordinator,2020-04-24,,Female,Bordeaux,208990,7992.63,0,3,Yes,6,2,0,2019
+E1226,Constance,Breton,Engineering,Sales Development Rep,2022-02-27,,Unknown,Nantes,88615,1804.75,0,4,No,8,4,0,1345
+E1725,Lucie,Lacroix,Human Resources,Analyst,2024-07-14,,Female,Bordeaux,186009,6760.32,1000,,No,1,10,0,477
+E1579,Andrée,Bouvier,Sales,Customer Success Manager,2016-04-17,,Female,Lyon,146965,7192.4,200,1,Yes,10,4,0,3487
+E1136,Thomas,Besson,Finance,Backend Engineer,2018-06-04,2020-06-12,NaN,Lyon,63821,2203.74,1000,,,10,2,1,739
+E1373,Denise,Becker,Human Resources,Digital Marketing Analyst,2022-07-19,,Female,Paris,81569,3357.75,1200,,,4,8,0,1203
+E1691,Paul,Cordier,Human Resources,Financial Analyst,2024-03-30,,Unknown,Montpellier,43923,1536.5,0,3,No,8,9,0,583
+E1258,Anne,Legros,Sales,HR Coordinator,2019-02-26,2024-03-24,Unknown,Lyon,244917,7158.87,0,1,No,10,8,1,1853
+E1322,Franck,Jacob,Human Resources,Senior Accountant,2021-06-26,,Unknown,Montpellier,53733,2338.78,0,,Yes,9,5,0,1591
+E1173,Zacharie,Martineau,Finance,Solutions Engineer,2019-08-30,,Unknown,Paris,136483,3943.71,200,,,8,4,0,2257
+E1150,Charlotte,Pottier,Engineering,Senior Software Engineer,2017-09-29,2025-03-25,Unknown,Paris,146635,4037.4,1200,5,No,5,4,1,2734
+E1427,Auguste,Lefort,Sales,Sales Development Rep,2016-09-03,,Unknown,Nantes,176960,7922.8,200,,,2,10,0,3348
+E1816,Vincent,Pierre,Sales,Account Executive,2024-08-18,2025-10-06,Non-Binary,Lyon,106300,4564.99,200,1,No,2,7,1,414
+E1812,Anouk,Laporte,Human Resources,Financial Analyst,2015-11-25,,Non-Binary,Montpellier,42299,1294.92,1000,3,Yes,4,10,0,3631
+E1383,Bertrand,Adam,Sales,Account Executive,2019-09-09,,Unknown,Nantes,127193,2878.77,200,,,2,1,0,2247
+E1422,Augustin,Bernier,Engineering,Talent Acquisition Specialist,2019-11-27,,Male,Montpellier,41895,1629.86,200,3,No,6,5,0,2168
+E1340,Emmanuelle,Hamon,Human Resources,Software Engineer,2017-11-07,,NaN,Bordeaux,229636,5388.82,0,,,3,10,0,2918
+E1154,Diane,Loiseau,Engineering,Talent Acquisition Specialist,2019-09-13,,NaN,Remote,68629,2811.74,1200,3,No,7,2,0,2243
+E1915,Aimée,Hervé,Engineering,Regional Sales Director,2023-01-26,,NaN,Paris,203021,8745.91,1000,,Yes,9,10,0,1012
+E1009,Pénélope,Colas,Human Resources,Graphic Designer,2019-09-25,,Unknown,Bordeaux,145990,5352.8,500,4,No,6,7,0,2231
+E1567,Nath,Da Costa,Human Resources,VP of Sales,2017-08-21,,NaN,Montpellier,41608,1992.07,500,3,No,10,1,0,2996
+E1648,François,Camus,Engineering,Backend Engineer,2017-12-21,2021-10-24,NaN,Paris,182321,7359.29,1000,1,No,5,9,1,1403
+E1859,Augustin,Fischer,Finance,Internal Auditor,2020-02-28,,Unknown,Paris,143937,3885.59,1200,3,No,4,4,0,2075
+E1903,Michèle,Laine,Sales,Customer Success Manager,2015-12-18,2020-10-06,Unknown,Paris,158551,7223.56,200,4,No,6,3,1,1754
+E1299,Jean,Regnier,Engineering,HR Data Scientist,2019-11-28,2025-10-12,Female,Nantes,89391,3216.08,1200,1,No,2,5,1,2145
+E1309,Noémi,Laroche,Finance,Accountant,2022-12-11,,Male,Montpellier,78200,2258.13,1200,2,Yes,4,9,0,1058
+E1446,Daniel,Monnier,Sales,Software Engineer,2022-03-28,,Male,Paris,135391,3620.82,1000,4,No,5,10,0,1316
+E1327,Dominique,Jacques,Human Resources,Financial Analyst,2024-09-06,,Female,Remote,247147,8439.95,0,2,Yes,3,4,0,423
+E1527,Renée,Rodriguez,Sales,Customer Success Manager,2021-04-24,,Male,Nantes,193088,9365.17,500,,No,10,1,0,1654
+E1950,David,Evrard,Human Resources,Accountant,2023-01-09,,Unknown,Lyon,205555,5928.57,0,,,4,6,0,1029
+E1667,Alexandre,Gilbert,Human Resources,Sales Development Rep,2019-01-09,,Unknown,Remote,60007,2248.39,0,3,No,2,9,0,2490
+E1826,Pauline,Torres,Human Resources,HR Business Partner,2020-04-04,2022-03-26,Unknown,Nantes,155509,5421.5,1200,3,No,7,2,1,721
+E1905,Tristan,Lemaire,Engineering,HR Coordinator,2021-02-08,2025-03-11,Non-Binary,Bordeaux,225005,8883.25,1000,,,4,10,1,1492
+E1361,Augustin,Dumas,Sales,Financial Analyst,2019-12-13,,NaN,Bordeaux,99414,2308.59,1000,,No,6,3,0,2152
+E1747,Hortense,Blanchard,Marketing,VP of Sales,2018-04-28,2020-02-03,Male,Bordeaux,155362,3992.98,1000,,,1,7,1,646
+E1529,Alain,Hernandez,Human Resources,People Analyst,2019-07-29,,Male,Remote,63595,1872.6,200,3,No,10,6,0,2289
+E1761,Étienne,Fontaine,Human Resources,Internal Auditor,2018-01-31,2025-06-09,NaN,Bordeaux,192546,8528.13,0,5,Yes,10,4,1,2686
+E1967,Robert,Boulanger,Human Resources,Talent Acquisition Specialist,2024-04-18,,NaN,Montpellier,239954,7719.17,1000,3,No,2,1,0,564
+E1504,Sophie,Baron,Finance,Machine Learning Engineer,2017-08-06,,Unknown,Remote,58304,2393.57,1000,1,No,5,10,0,3011
+E1393,Lucy,Moreau,Marketing,HR Coordinator,2015-12-07,,Unknown,Paris,206787,8567.34,0,3,No,7,6,0,3619
+E1899,Isaac,Faivre,Finance,HR Business Partner,2021-09-28,2023-01-29,Male,Montpellier,76721,3117.98,0,3,No,4,9,1,488
+E1615,Valentine,Laroche,Engineering,FP&A Manager,2023-04-20,,Female,Montpellier,61517,2749.01,1000,,No,7,7,0,928
+E1882,Laurent,Gay,Finance,HR Machine Learning Engineer,2019-12-27,,Non-Binary,Remote,187623,4661.43,0,4,No,6,3,0,2138
+E1787,Adrienne,Klein,Engineering,Specialist,2021-10-12,,Non-Binary,Nantes,167659,5845.57,500,5,Yes,9,8,0,1483
+E1836,Bertrand,Germain,Finance,Analyst,2021-12-23,,Female,Remote,157911,4699.69,1200,,No,4,9,0,1411
+E1883,Agnès,Ruiz,Sales,Controller,2022-10-15,,Unknown,Paris,66355,2700.62,500,,,7,9,0,1115
+E1918,Agathe,Gosselin,Engineering,Associate,2019-12-06,,Male,Bordeaux,107183,3279.57,500,1,No,3,10,0,2159
+E1088,Laurent,Laroche,Marketing,Associate,2016-07-22,,Male,Remote,238070,10001.69,500,,No,5,9,0,3391
+E1224,Édouard,Marchal,Human Resources,DevOps Engineer,2023-02-11,,Unknown,Paris,73521,2209.04,0,2,No,7,10,0,996
+E1985,Olivie,Robert,Marketing,Software Engineer,2016-03-16,,NaN,Remote,151698,6800.32,1200,,Yes,9,6,0,3519
+E1262,Louise,Gonzalez,Human Resources,DevOps Engineer,2020-08-22,2023-01-15,Unknown,Lyon,47115,1470.31,1200,,,5,10,1,876
+E1876,Alice,Da Silva,Engineering,People Analyst,2020-01-16,,Male,Bordeaux,117317,2523.64,500,1,Yes,8,3,0,2118
+E1682,Alex,Guyon,Human Resources,Senior Accountant,2020-11-10,2022-07-23,Male,Montpellier,65193,1572.41,0,,No,5,10,1,620
+E1581,Renée,Bailly,Engineering,HR Coordinator,2017-04-20,,Female,Nantes,143824,5577.6,200,3,Yes,4,9,0,3119
+E1664,Émile,Mallet,Human Resources,HR Business Partner,2021-02-24,,NaN,Lyon,119558,4170.38,1200,,,6,8,0,1713
+E1186,Susan,Vaillant,Engineering,Account Executive,2017-12-20,,Unknown,Paris,124892,4849.81,200,5,No,3,7,0,2875
+E1014,Andrée,Simon,Sales,Coordinator,2016-03-05,,Female,Lyon,227938,7021.46,500,5,No,9,7,0,3530
+E1467,Daniel,Briand,Sales,Payroll Specialist,2017-02-01,,Female,Bordeaux,120645,4131.6,1000,,Yes,4,1,0,3197
+E1047,Élisabeth,Laporte,Finance,Sales Development Rep,2022-06-28,2023-12-13,Male,Nantes,231720,9423.63,500,,No,9,1,1,533
+E1878,Anne,Delannoy,Human Resources,Accountant,2016-10-17,,NaN,Bordeaux,79436,2334.75,1000,,No,3,6,0,3304
+E1519,Julie,Mendès,Marketing,Regional Sales Director,2017-09-27,,Male,Montpellier,123375,5350.93,0,1,No,9,9,0,2959
+E1281,Jérôme,Menard,Unknown,Senior Accountant,2017-06-06,2018-07-26,Non-Binary,Bordeaux,170679,8491.09,1000,4,No,1,8,1,415
+E1181,Amélie,Toussaint,Human Resources,VP of Sales,2018-01-27,,Female,Nantes,41931,1591.38,500,,No,2,3,0,2837
+E1733,Victoire,Barbier,Sales,Graphic Designer,2016-03-20,2021-12-18,Non-Binary,Paris,40970,1451.0,1200,,,7,6,1,2099
+E1869,Théophile,Delattre,Sales,Sales Development Rep,2019-02-24,,Non-Binary,Remote,156746,4347.2,1000,1,No,7,9,0,2444
+E1877,Virginie,Prévost,Marketing,Senior Software Engineer,2022-12-26,,Unknown,Nantes,144134,5625.63,500,2,Yes,1,6,0,1043
+E1522,Marianne,Carlier,Finance,Talent Acquisition Specialist,2019-10-19,2025-01-11,NaN,Bordeaux,100696,5011.6,0,1,Yes,6,1,1,1911
+E1677,Suzanne,Joseph,Engineering,Coordinator,2023-06-02,,Unknown,Montpellier,249255,10340.7,200,,No,6,5,0,885
+E1199,Yves,Gomez,Engineering,Sales Manager,2022-09-15,,NaN,Paris,195880,8943.33,1200,5,No,3,9,0,1145
+E1538,François,Marie,Engineering,Sales Development Rep,2023-09-07,,Non-Binary,Remote,207862,7140.84,200,2,No,8,8,0,788
+E1976,Mathilde,Berthelot,Sales,Social Media Manager,2018-12-12,,NaN,Montpellier,230448,8830.84,200,,,6,1,0,2518
+E1685,David,Gallet,Engineering,Technical Lead,2016-08-19,,Male,Nantes,143251,7152.04,1200,,No,2,4,0,3363
+E1034,Théodore,Leroy,Engineering,Coordinator,2023-08-15,,Female,Remote,193852,7351.43,1000,5,No,4,3,0,811
+E1259,Christelle,Bodin,Finance,Analyst,2018-04-16,,Female,Lyon,165773,3317.46,1200,5,Yes,5,7,0,2758
+E1907,Sabine,Lebreton,Sales,Controller,2022-02-20,2024-03-22,Female,Montpellier,204937,7807.57,0,,,10,10,1,761
+E1814,Suzanne,Giraud,Human Resources,HR Machine Learning Engineer,2018-12-09,,Non-Binary,Nantes,56088,2438.73,1200,1,No,10,4,0,2521
+E1323,Anastasie,Le Roux,Human Resources,Specialist,2022-12-01,,Male,Paris,229721,8966.83,1000,3,No,5,2,0,1068
+E1458,Astrid,Parent,Sales,Analyst,2024-07-03,2025-07-21,Unknown,Montpellier,59914,1634.97,1200,,No,5,9,1,383
+E1397,Timothée,Lefebvre,Sales,SEO Specialist,2016-04-17,2023-11-22,Unknown,Paris,117229,5756.29,200,,,2,1,1,2775
+E1736,Margaux,Lecomte,Sales,FP&A Manager,2020-08-15,2023-11-15,Female,Montpellier,218221,6671.57,200,,,3,10,1,1187
+E1359,Zacharie,Martin,Finance,Backend Engineer,2016-09-13,,Non-Binary,Nantes,50578,2272.58,1200,5,No,1,6,0,3338
+E1955,Thomas,Masse,Human Resources,Compensation Analyst,2017-03-03,2024-04-12,Female,Bordeaux,119225,4109.79,0,1,No,3,10,1,2597
+E1730,Augustin,Clerc,Finance,Engineering Manager,2018-04-29,2021-09-16,Unknown,Lyon,179897,7677.98,1200,4,No,4,4,1,1236
+E1516,Camille,Garnier,Finance,Machine Learning Engineer,2023-04-18,2024-07-23,NaN,Remote,235476,9781.39,1000,3,No,5,5,1,462
+E1956,Nicole,Moreau,Sales,Data Scientist,2017-08-20,,Unknown,Montpellier,64527,2032.0,1200,1,No,10,5,0,2997
+E1742,Monique,Duhamel,Finance,Frontend Engineer,2020-11-10,,Unknown,Lyon,151889,5953.21,200,5,Yes,10,9,0,1819
+E1846,Édith,Didier,Finance,Compensation Analyst,2017-04-27,2023-05-07,Unknown,Lyon,82502,2867.81,500,,No,3,2,1,2201
+E1728,Victor,Duval,Human Resources,HR Business Partner,2023-03-23,,Female,Nantes,86950,3933.18,500,5,No,3,8,0,956
+E1518,Adélaïde,Lemaire,Marketing,Accountant,2024-01-15,2025-05-28,Male,Nantes,124781,5870.24,1000,,,8,1,1,499
+E1432,Michèle,Barbe,Sales,Solutions Engineer,2017-12-19,,Male,Bordeaux,47212,2125.5,1000,1,No,3,8,0,2876
+E1687,Océane,Fournier,Sales,HR Business Partner,2024-04-14,,NaN,Montpellier,178765,4618.89,1200,2,No,9,10,0,568
+E1156,Maryse,Baron,Marketing,Backend Engineer,2023-09-05,2025-10-01,Female,Nantes,212899,6368.42,500,,No,7,10,1,757
+E1481,Rémy,Masse,Marketing,Coordinator,2019-07-18,,NaN,Lyon,156724,6496.44,200,3,No,8,3,0,2300
+E1312,Henriette,Maillot,Finance,Graphic Designer,2023-07-27,,Female,Nantes,102033,3345.68,1200,5,No,3,3,0,830
+E1580,Daniel,Raymond,Human Resources,Analyst,2016-12-27,,Unknown,Montpellier,110103,3770.54,0,2,Yes,3,1,0,3233
+E1732,Antoine,Fournier,Human Resources,Digital Marketing Analyst,2016-05-19,,NaN,Montpellier,133584,2824.28,1200,5,No,3,3,0,3455
+E1704,Édith,Jacquet,Sales,People Analyst,2024-04-02,,Non-Binary,Paris,147181,3355.95,1000,,,1,4,0,580
+E1095,Bertrand,Guérin,Marketing,Accountant,2020-11-28,2022-10-29,Unknown,Bordeaux,227892,7672.99,200,,,4,4,1,700
+E1902,Georges,Andre,Human Resources,VP of Sales,2016-12-05,,Male,Remote,54826,2021.32,1000,2,No,10,9,0,3255
+E1670,Roland,Grégoire,Engineering,FP&A Manager,2019-03-27,,Non-Binary,Nantes,168009,5075.4,1000,1,No,1,8,0,2413
+E1417,Marguerite,Mary,Human Resources,Solutions Engineer,2019-08-21,2025-07-19,Non-Binary,Montpellier,91210,3008.17,0,,,2,10,1,2159
+E1686,Lucy,Pineau,Finance,Solutions Engineer,2023-06-14,,Male,Lyon,178986,8677.09,200,,,1,7,0,873
+E1198,Catherine,Boutin,Human Resources,Backend Engineer,2018-11-26,,Female,Nantes,83458,2860.35,200,,No,3,8,0,2534
+E1997,Sabine,Legros,Finance,Analyst,2024-07-18,,Male,Montpellier,235943,9270.65,500,5,No,3,6,0,473
+E1325,Adèle,Maréchal,Sales,Coordinator,2016-12-23,,NaN,Nantes,180216,6191.92,500,,No,3,1,0,3237
+E1779,Daniel,Lecomte,Sales,Financial Analyst,2018-03-07,,Male,Montpellier,158523,3951.57,1000,1,Yes,1,10,0,2798
+E1586,Marthe,Diaz,Sales,Coordinator,2023-05-02,,Non-Binary,Remote,247280,11365.16,1200,,,5,6,0,916
+E1942,Jeanne,Jean,Sales,Account Executive,2021-11-18,,Male,Paris,76396,2505.59,0,3,No,4,2,0,1446
+E1748,Bernard,Bonneau,Engineering,Senior Accountant,2018-05-03,,Unknown,Nantes,202067,9792.46,0,5,Yes,7,8,0,2741
+E1573,Marthe,Morvan,Sales,Coordinator,2018-11-01,2020-04-10,Male,Lyon,159887,7812.72,200,2,No,2,3,1,526
+E1256,Henriette,Marie,Sales,HR Coordinator,2023-02-07,,Unknown,Bordeaux,64521,1832.33,200,,,9,8,0,1000
+E1409,Laurent,Thierry,Human Resources,Marketing Manager,2023-04-21,,NaN,Nantes,42326,1813.9,1200,2,No,8,9,0,927
+E1087,Élise,Cousin,Sales,Machine Learning Engineer,2016-12-09,,NaN,Remote,87052,2877.15,500,,No,1,5,0,3251
+E1311,Corinne,Foucher,Sales,Regional Sales Director,2024-05-26,,NaN,Nantes,188215,6732.95,1200,1,Yes,8,5,0,526
+E1360,Laetitia,Marques,Sales,Digital Marketing Analyst,2015-11-07,,NaN,Remote,112436,2490.97,200,,No,5,3,0,3649
+E1166,Renée,Moreau,Sales,Talent Acquisition Specialist,2022-01-20,,Unknown,Nantes,230551,5141.39,200,5,No,4,6,0,1383
+E1463,Marc,Morin,Finance,FP&A Manager,2021-01-07,,Unknown,Montpellier,151108,3922.77,200,5,Yes,3,2,0,1761
+E1880,Véronique,Normand,Finance,VP of Sales,2021-12-02,,Non-Binary,Nantes,190435,4818.79,200,4,No,6,5,0,1432
+E1339,Maggie,Mace,Human Resources,HR Coordinator,2022-04-09,2024-10-05,Non-Binary,Remote,43819,1370.19,200,3,Yes,10,2,1,910
+E1530,Danielle,Chauvin,Marketing,Technical Lead,2021-03-29,2024-12-27,Unknown,Montpellier,212136,5771.51,1200,4,Yes,3,2,1,1369
+E1772,Édouard,Colin,Human Resources,QA Engineer,2022-04-10,,Male,Montpellier,192885,7875.21,1200,1,No,3,3,0,1303
+E1129,Patricia,Clément,Sales,Accountant,2018-05-16,,Female,Lyon,237167,9727.45,200,3,No,1,4,0,2728
+E1039,Louis,Guillet,Engineering,Account Executive,2015-12-28,,NaN,Nantes,168790,6643.01,1000,3,No,5,2,0,3598
+E1127,Marine,Diallo,Sales,SEO Specialist,2023-04-16,2025-05-11,Non-Binary,Montpellier,245345,6316.89,1200,1,No,8,5,1,756
+E1335,Thérèse,Thierry,Engineering,HR Machine Learning Engineer,2021-04-28,,Female,Bordeaux,238979,6993.22,200,1,Yes,6,6,0,1650
+E1449,Renée,Lejeune,Sales,Inside Sales Rep,2018-05-18,,Unknown,Bordeaux,62243,1480.12,200,,,8,7,0,2726
+E1453,Aimé,Petitjean,Human Resources,Internal Auditor,2017-06-30,2021-03-25,Non-Binary,Remote,127912,5339.77,200,2,No,4,6,1,1364
+E1870,Valentine,Raymond,Human Resources,Solutions Engineer,2016-06-19,2019-07-12,Male,Nantes,165337,4843.47,1000,5,No,10,2,1,1118
+E1367,Édouard,Renaud,Sales,Payroll Specialist,2018-06-11,2022-01-26,NaN,Nantes,142762,5636.46,1200,,Yes,10,8,1,1325
+E1972,Émile,Gérard,Marketing,Associate,2020-09-12,,Female,Nantes,68279,1936.07,500,3,No,5,4,0,1878
+E1151,Guillaume,Tanguy,Sales,Analyst,2023-11-10,,Unknown,Paris,132356,3841.57,1200,,,6,1,0,724
+E1707,Anaïs,Denis,Human Resources,Senior Software Engineer,2017-01-01,,Unknown,Paris,60679,2153.54,500,,,6,10,0,3228
+E1336,Édouard,Fouquet,Marketing,Frontend Engineer,2021-04-28,,NaN,Montpellier,243042,6225.87,500,3,No,9,2,0,1650
+E1412,Éléonore,Parent,Finance,HR Business Partner,2017-03-28,,Male,Nantes,55401,1743.14,1000,,No,6,9,0,3142
+E1992,Sabine,Bazin,Human Resources,Coordinator,2023-05-18,,Female,Lyon,85071,1904.08,500,2,No,2,8,0,900
+E1901,Philippine,Roux,Finance,Data Scientist,2019-09-01,2022-10-28,NaN,Montpellier,113989,2428.01,1200,5,No,1,7,1,1153
+E1832,Jacques,Laroche,Sales,Account Executive,2016-10-23,,NaN,Paris,140629,6044.4,500,,No,1,1,0,3298
+E1283,Guillaume,Marin,Human Resources,HR Coordinator,2016-04-04,2021-06-25,Unknown,Lyon,161324,7396.62,1200,5,No,10,6,1,1908
+E1598,Denise,Ferrand,Marketing,Internal Auditor,2016-07-04,,NaN,Nantes,78118,3423.47,500,1,No,1,7,0,3409
+E1995,Victor,Clément,Engineering,People Analyst,2021-10-15,2024-07-06,Non-Binary,Lyon,166704,3363.42,0,2,No,5,8,1,995
+E1456,Constance,Giraud,Engineering,Customer Success Manager,2022-06-15,2024-05-02,Male,Remote,202292,6720.99,1000,,,4,10,1,687
+E1232,Jules,Rolland,Finance,Account Executive,2016-01-13,,Unknown,Montpellier,185156,6833.14,0,3,No,6,2,0,3582
+E1668,Hortense,Allain,Sales,HR Machine Learning Engineer,2022-05-18,,Male,Nantes,96005,3477.68,0,3,Yes,9,2,0,1265
+E1947,Victoire,Navarro,Engineering,Backend Engineer,2020-09-07,,Non-Binary,Bordeaux,98701,2096.26,200,,,8,6,0,1883
+E1278,Zoé,Navarro,Sales,HR Data Scientist,2018-03-13,,Unknown,Montpellier,230574,5958.21,500,,,4,5,0,2792
+E1817,Stéphane,Toussaint,Human Resources,Senior Accountant,2017-09-23,,Female,Paris,148500,6675.04,200,5,No,5,5,0,2963
+E1884,Sylvie,Lebreton,Finance,Software Engineer,2022-10-21,,Male,Remote,216991,8302.32,0,1,No,8,2,0,1109
+E1144,Agathe,Allain,Sales,Machine Learning Engineer,2024-06-15,,Non-Binary,Nantes,46311,1760.0,1000,,No,2,6,0,506
+E1193,Xavier,Bourdon,Human Resources,Regional Sales Director,2022-12-24,2024-12-03,NaN,Remote,226236,11033.34,500,,,3,3,1,710
+E1888,Bernadette,Hamel,Sales,Sales Manager,2024-02-21,2025-05-05,NaN,Nantes,148348,4733.02,1000,,,10,3,1,439
+E1756,Alice,Poulain,Sales,Accountant,2023-11-11,2025-02-19,Male,Nantes,244423,5680.28,1000,,,7,8,1,466
+E1549,Suzanne,Thomas,Unknown,Financial Analyst,2018-05-14,,Unknown,Lyon,41986,1474.59,1000,,No,9,9,0,2730
+E1887,Gabriel,Vidal,Human Resources,Solutions Engineer,2018-12-18,2020-02-02,Male,Lyon,40200,962.06,200,1,No,1,8,1,411
+E1993,Mathilde,Lebreton,Sales,HR Coordinator,2020-05-31,,Non-Binary,Lyon,115616,5394.63,1200,3,No,5,9,0,1982
+E1324,Zacharie,Delorme,Sales,Sales Development Rep,2018-05-26,2022-05-22,Unknown,Paris,95799,2630.73,500,,No,9,6,1,1457
+E1196,Auguste,Pires,Human Resources,Compensation Analyst,2020-07-22,2024-05-15,Female,Nantes,113016,5093.32,500,,,9,4,1,1393
+E1248,Édouard,Techer,Sales,Frontend Engineer,2019-12-20,2022-08-31,Non-Binary,Bordeaux,164615,7603.71,500,4,No,6,8,1,985
+E1094,Claire,Mahe,Human Resources,HR Machine Learning Engineer,2021-03-15,,Female,Remote,209978,9582.79,500,5,Yes,10,9,0,1694
+E1223,Alexandria,Torres,Sales,HR Data Scientist,2022-04-03,,Female,Bordeaux,85933,2377.81,0,3,No,8,1,0,1310
+E1203,Édouard,Dupont,Sales,Senior Accountant,2018-01-26,2025-06-23,NaN,Remote,143107,5804.6,1000,,,4,8,1,2705
+E1731,Patricia,Marchal,Human Resources,Customer Success Manager,2019-10-02,,Male,Bordeaux,174510,8589.43,1200,,No,5,3,0,2224
+E1293,Nicole,Maury,Human Resources,Controller,2018-08-16,,Male,Lyon,118563,3666.77,500,,No,10,9,0,2636
+E1102,Stéphane,Bouvier,Sales,Talent Acquisition Specialist,2019-05-29,2025-04-28,Non-Binary,Nantes,65040,1859.8,200,1,Yes,1,6,1,2161
+E1107,Laetitia,Le Roux,Sales,VP of Sales,2021-04-14,,Unknown,Remote,172324,6480.93,1200,5,No,2,5,0,1664
+E1789,Élodie,Guilbert,Sales,Accountant,2023-03-11,,Female,Bordeaux,92101,2692.41,500,,,1,9,0,968
+E1625,Nicole,David,Human Resources,HR Coordinator,2016-09-04,,Female,Remote,181226,7930.66,200,2,No,7,3,0,3347
+E1316,Gilles,Julien,Human Resources,Regional Sales Director,2017-12-14,,Female,Nantes,211142,7175.24,1200,3,No,2,8,0,2881
+E1501,Daniel,Fontaine,Human Resources,Analyst,2018-09-22,,Female,Paris,191052,5159.48,0,4,Yes,6,7,0,2599
+E1395,Victoire,Lévêque,Human Resources,HR Data Scientist,2024-04-03,,Male,Lyon,237472,9403.78,200,1,Yes,10,5,0,579
+E1715,Élodie,Joubert,Human Resources,Talent Acquisition Specialist,2023-06-25,2024-10-06,Unknown,Nantes,202687,6147.52,1200,,,7,9,1,469
+E1043,Andrée,Bouvet,Marketing,HR Business Partner,2017-01-06,,NaN,Montpellier,132811,6146.06,1200,,,4,5,0,3223
+E1218,Benoît,Roussel,Human Resources,Sales Manager,2020-05-03,,Unknown,Lyon,166558,3937.9,0,1,No,3,5,0,2010
+E1140,Adrienne,Le Goff,Unknown,Coordinator,2019-03-12,2021-10-26,Non-Binary,Lyon,182759,7258.68,1200,1,No,2,8,1,959
+E1619,Charlotte,Grondin,Marketing,Inside Sales Rep,2018-04-02,,NaN,Bordeaux,40700,1827.79,1000,5,No,10,1,0,2772
+E1713,Pénélope,Mathieu,Human Resources,Senior Software Engineer,2016-12-17,,Unknown,Bordeaux,47542,1873.37,0,2,No,7,9,0,3243
+E1041,Gérard,Guillot,Engineering,Frontend Engineer,2023-08-18,2025-08-20,Unknown,Nantes,45604,920.02,1000,,,8,7,1,733
+E1916,Suzanne,Guibert,Sales,Payroll Specialist,2016-03-28,,Unknown,Nantes,191448,8765.39,500,5,No,10,8,0,3507
+E1149,Célina,Lenoir,Human Resources,FP&A Manager,2021-06-14,,Non-Binary,Montpellier,126089,4557.02,200,,,5,9,0,1603
+E1710,Théodore,Morel,Finance,Coordinator,2016-03-04,2019-05-12,Unknown,Bordeaux,173505,5305.68,1000,3,No,10,3,1,1164
+E1593,Élisabeth,Moreno,Human Resources,Account Executive,2017-10-07,,Unknown,Nantes,210513,6085.14,0,5,No,8,5,0,2949
+E1056,Hugues,Barthelemy,Sales,Sales Manager,2016-10-21,,Female,Lyon,76981,1651.27,1000,,,7,6,0,3300
+E1493,Margot,Thibault,Finance,Frontend Engineer,2022-05-05,,Unknown,Montpellier,222974,5024.01,200,2,No,1,8,0,1278
+E1330,Manon,Lejeune,Human Resources,Controller,2018-01-18,,NaN,Nantes,69377,1479.43,500,,,8,6,0,2846
+E1857,Arnaude,Legrand,Human Resources,Talent Acquisition Specialist,2019-04-08,2023-06-27,Unknown,Remote,49348,1126.54,0,,,8,9,1,1541
+E1433,Arthur,Gautier,Engineering,Payroll Specialist,2019-12-26,2022-10-27,Unknown,Paris,221111,7867.11,1000,,Yes,7,9,1,1036
+E1799,Céline,Pierre,Sales,Associate,2022-10-15,,Non-Binary,Montpellier,65531,2783.78,500,3,Yes,4,10,0,1115
+E1265,Charlotte,Renard,Unknown,Inside Sales Rep,2021-10-29,2025-01-02,Female,Nantes,191615,4292.86,0,2,No,9,3,1,1161
+E1131,Véronique,Dufour,Finance,Specialist,2016-06-02,,Non-Binary,Nantes,114959,3587.82,1000,5,No,4,7,0,3441
+E1495,Paul,Loiseau,Human Resources,Controller,2018-02-18,,Unknown,Nantes,207175,4876.04,1200,1,No,3,6,0,2815
+E1342,Agnès,Grégoire,Human Resources,Financial Analyst,2016-08-18,,Non-Binary,Nantes,125885,5268.57,1000,5,No,9,9,0,3364
+E1202,Gabriel,Dumont,Sales,Senior Software Engineer,2019-05-31,,NaN,Montpellier,201277,9318.3,500,,No,1,4,0,2348
+E1303,René,Barbier,Marketing,Sales Manager,2017-11-14,,Female,Paris,231604,10953.69,200,1,No,10,3,0,2911
+E1287,Louise,Launay,Human Resources,Solutions Engineer,2017-06-19,,Unknown,Bordeaux,146606,5066.77,1200,1,No,4,5,0,3059
+E1216,Célina,Joubert,Human Resources,Specialist,2024-02-03,,Female,Bordeaux,139826,5534.22,0,3,No,9,6,0,639
+E1442,Nicolas,Dumas,Engineering,HR Data Scientist,2021-10-02,,Unknown,Bordeaux,239563,10768.32,0,1,Yes,7,5,0,1493
+E1443,Grégoire,Fernandez,Finance,Brand Manager,2023-05-11,,Unknown,Remote,42702,909.97,0,,,4,2,0,907
+E1274,Aimée,Bègue,Human Resources,People Analyst,2019-12-01,2021-12-26,Male,Paris,145008,3698.72,500,,No,3,9,1,756
+E1440,Laurent,Rousset,Human Resources,Coordinator,2023-08-01,2025-03-12,Male,Nantes,154838,4144.73,0,,,2,2,1,589
+E1987,Antoine,Garnier,Engineering,Sales Manager,2022-05-29,,Unknown,Remote,120045,3074.27,200,1,No,5,9,0,1254
+E1663,Guy,Reynaud,Engineering,Senior Accountant,2022-11-05,,Unknown,Bordeaux,227089,11148.12,1200,5,Yes,2,4,0,1094
+E1828,Étienne,Peltier,Finance,Inside Sales Rep,2019-01-27,2025-06-27,Male,Lyon,218291,6733.11,1000,3,No,4,9,1,2343
+E1396,Noémi,Guilbert,Engineering,Machine Learning Engineer,2023-11-17,,NaN,Montpellier,55744,2607.38,1000,,,7,6,0,717
+E1894,Bertrand,Andre,Sales,Financial Analyst,2018-02-19,,NaN,Remote,103876,2664.69,0,2,No,10,9,0,2814
+E1469,Diane,Deschamps,Engineering,Controller,2017-04-21,2021-12-06,Non-Binary,Remote,131122,6114.2,1000,4,Yes,8,6,1,1690
+E1640,Joseph,Étienne,Finance,FP&A Manager,2018-05-30,,Non-Binary,Montpellier,62654,1281.41,200,1,No,1,7,0,2714
+E1100,Matthieu,Launay,Sales,Internal Auditor,2017-02-22,,NaN,Bordeaux,133271,2761.13,1000,4,No,6,3,0,3176
+E1249,Isabelle,Duhamel,Engineering,Compensation Analyst,2022-11-26,2024-09-25,Male,Paris,57054,2089.1,0,,No,3,5,1,669
+E1429,Frédéric,Masson,Finance,Software Engineer,2018-04-19,,Unknown,Lyon,84096,3275.4,200,,,2,2,0,2755
+E1215,Henriette,Chevalier,Sales,HR Business Partner,2024-05-07,,Female,Nantes,54246,1669.56,200,5,Yes,8,9,0,545
+E1792,Marcel,Rossi,Sales,Senior Accountant,2022-03-16,2025-03-03,NaN,Montpellier,43699,884.25,1000,,,8,6,1,1083
+E1684,André,Lemonnier,Marketing,Engineering Manager,2018-09-24,,Unknown,Montpellier,138867,3508.03,1000,4,No,5,4,0,2597
+E1590,Georges,Étienne,Sales,Coordinator,2020-12-09,,Non-Binary,Nantes,41324,901.2,1000,1,No,8,10,0,1790
+E1313,Adrien,Guillaume,Human Resources,Payroll Specialist,2023-07-29,,Female,Nantes,196392,5107.57,500,,,3,10,0,828
+E1377,Gabriel,Raymond,Sales,HR Business Partner,2021-08-19,,NaN,Nantes,94473,4699.18,1200,,,9,4,0,1537
+E1514,Capucine,Diaz,Sales,Solutions Engineer,2022-11-10,2024-11-16,Male,Paris,70259,2284.07,500,,No,3,9,1,737
+E1768,Xavier,Rémy,Human Resources,HR Machine Learning Engineer,2019-03-26,2021-05-08,Unknown,Montpellier,112650,2381.99,200,,,10,2,1,774
+E1589,Cécile,Regnier,Sales,FP&A Manager,2017-04-28,2023-02-17,Female,Remote,122168,3868.35,0,1,Yes,4,4,1,2121
+E1657,Maggie,Besnard,Sales,Customer Success Manager,2024-06-07,,Female,Paris,57362,1565.3,500,5,No,6,10,0,514
+E1594,Timothée,Royer,Sales,Brand Manager,2022-03-06,2025-07-24,NaN,Paris,109034,4915.24,0,1,No,5,4,1,1236
+E1268,Olivie,Dumas,Engineering,Software Engineer,2016-01-11,2024-09-23,NaN,Montpellier,235272,5721.95,1000,,,10,10,1,3178
+E1979,Marthe,De Oliveira,Finance,Inside Sales Rep,2023-12-20,,Non-Binary,Nantes,210810,9436.73,1200,,Yes,3,7,0,684
+E1532,Thérèse,Da Costa,Sales,People Analyst,2022-11-04,,Female,Nantes,135308,4903.05,500,,No,9,1,0,1095
+E1683,Maryse,Teixeira,Finance,Specialist,2016-06-06,,Unknown,Nantes,122161,2925.25,1000,,Yes,10,10,0,3437
+E1614,Emmanuelle,Lambert,Finance,Inside Sales Rep,2015-12-09,,Unknown,Lyon,192309,8671.12,200,,,4,2,0,3617
+E1843,Margaud,Sanchez,Human Resources,People Analyst,2022-03-01,,NaN,Remote,200302,4729.32,500,,Yes,3,4,0,1343
+E1370,Anaïs,Dijoux,Sales,People Analyst,2017-11-08,2022-07-28,Male,Lyon,69941,2548.25,1200,,,6,6,1,1723
+E1505,Richard,Maillot,Human Resources,Solutions Engineer,2020-04-14,,Unknown,Lyon,101955,2649.69,200,,No,3,10,0,2029
+E1374,Jérôme,Pires,Human Resources,Sales Manager,2016-07-03,2019-07-21,Female,Nantes,116724,5634.08,1200,5,Yes,3,5,1,1113
+E1329,Lorraine,Rolland,Human Resources,HR Business Partner,2022-03-25,,Male,Lyon,240325,6949.36,200,3,No,3,8,0,1319
+E1153,Lucie,Germain,Finance,Sales Development Rep,2017-11-05,2021-10-09,Unknown,Remote,217350,7849.95,500,1,No,1,1,1,1434
+E1970,Hugues,Auger,Finance,Talent Acquisition Specialist,2018-04-08,2022-08-01,Non-Binary,Montpellier,171021,3848.41,500,4,No,3,8,1,1576
+E1929,Jeannine,Gilbert,Engineering,Solutions Engineer,2023-11-04,,Male,Bordeaux,215911,4870.55,200,,No,3,5,0,730
+E1631,René,Leleu,Sales,HR Data Scientist,2019-01-19,2020-11-25,Unknown,Lyon,242957,11306.25,200,,,4,5,1,676
+E1326,Vincent,Lefort,Unknown,Content Strategist,2021-01-10,2025-07-29,Unknown,Remote,126882,2539.15,1000,3,No,7,7,1,1661
+E1638,Claire,Dumont,Finance,Solutions Engineer,2024-04-13,,Unknown,Nantes,125001,3425.66,200,3,No,10,8,0,569
+E1961,Christine,Diaz,Human Resources,VP of Sales,2020-06-22,,Non-Binary,Bordeaux,115020,2873.14,500,5,No,3,3,0,1960
+E1679,Frédéric,Poirier,Finance,People Analyst,2019-07-22,,Unknown,Paris,85467,1934.52,500,,No,5,6,0,2296
+E1189,Nathalie,Traore,Human Resources,Senior Accountant,2018-07-21,2025-06-29,Female,Nantes,175776,5555.51,500,4,No,3,6,1,2535
+E1386,Arthur,Gaudin,Finance,Social Media Manager,2024-10-04,,Unknown,Montpellier,85958,2941.23,1200,3,No,3,2,0,395
+E1830,Cécile,Allain,Engineering,Financial Analyst,2021-12-09,,Unknown,Bordeaux,74006,1927.31,0,1,Yes,9,8,0,1425
+E1104,Vincent,Rivière,Human Resources,Frontend Engineer,2021-04-30,,Non-Binary,Paris,184407,4251.43,1000,5,No,7,5,0,1648
+E1334,Augustin,Thierry,Human Resources,Associate,2022-05-21,,Non-Binary,Paris,57014,1282.76,1000,3,No,5,9,0,1262
+E1863,Gabrielle,Langlois,Human Resources,Graphic Designer,2019-04-04,2020-08-15,Unknown,Bordeaux,68148,2821.04,200,,,2,2,1,499
+E1169,Frédéric,Maillard,Marketing,QA Engineer,2021-03-06,,Non-Binary,Remote,122212,4367.33,200,1,Yes,6,1,0,1703
+E1211,Christelle,Ledoux,Sales,HR Data Scientist,2020-10-29,2024-11-30,Male,Nantes,226904,4937.32,1200,5,No,5,6,1,1493
+E1793,Gilles,Blondel,Human Resources,Customer Success Manager,2024-07-28,2025-07-30,Male,Remote,51381,2381.08,0,1,No,10,1,1,367
+E1308,Thérèse,Ledoux,Sales,Senior Accountant,2020-01-31,2021-02-24,Non-Binary,Paris,88520,3227.06,500,,Yes,7,3,1,390
+E1608,Vincent,Rocher,Engineering,Engineering Manager,2020-07-28,,Unknown,Bordeaux,105963,4359.24,200,4,No,4,1,0,1924
+E1891,Valérie,Camus,Marketing,Software Engineer,2018-09-22,2021-10-05,Non-Binary,Nantes,46347,1376.93,500,,Yes,9,8,1,1109
+E1724,Claudine,Michel,Engineering,Backend Engineer,2019-11-03,,Female,Nantes,246704,6040.41,1000,,Yes,8,2,0,2192
+E1051,Bernard,Guibert,Sales,Digital Marketing Analyst,2017-08-29,2020-11-01,Unknown,Remote,204442,6873.21,200,,,2,4,1,1160
+E1052,Margaux,Rolland,Sales,HR Coordinator,2016-05-20,,Unknown,Montpellier,214633,5014.41,0,3,No,7,5,0,3454
+E1178,Margaux,Marin,Sales,Data Scientist,2020-09-08,,Non-Binary,Bordeaux,178226,3762.62,0,5,No,6,5,0,1882
+E1116,Émile,Lefèvre,Human Resources,Backend Engineer,2021-09-14,,Male,Remote,141524,6031.97,500,,,4,1,0,1511
+E1038,Marguerite,Chauvet,Engineering,Engineering Manager,2017-06-07,,NaN,Montpellier,86050,3406.86,500,4,No,5,7,0,3071
+E1032,Léon,Carre,Engineering,Payroll Specialist,2017-08-12,,Male,Paris,172065,4918.85,200,,No,9,9,0,3005
+E1237,Martine,Poulain,Sales,Inside Sales Rep,2017-04-14,,NaN,Remote,75278,3702.36,1000,3,Yes,2,4,0,3125
+E1762,Amélie,Bazin,Unknown,Software Engineer,2023-03-21,2024-07-27,Female,Nantes,130803,3786.81,1200,3,No,6,1,1,494
+E1745,Zoé,François,Sales,Talent Acquisition Specialist,2023-07-13,,NaN,Paris,120968,3389.54,1000,,No,1,10,0,844
+E1378,Corinne,Pineau,Sales,Talent Acquisition Specialist,2018-09-25,,Unknown,Paris,243613,6166.13,1000,,No,6,4,0,2596
+E1559,Olivier,Blanc,Finance,Software Engineer,2016-04-10,,Unknown,Bordeaux,237546,10044.96,200,,,1,7,0,3494
+E1411,Marcel,Moulin,Finance,Payroll Specialist,2017-10-19,2018-10-31,Unknown,Remote,236994,9718.99,500,,,10,7,1,377
+E1654,Alexandre,Launay,Human Resources,Engineering Manager,2019-08-05,,Male,Lyon,47511,2322.45,1000,,No,5,4,0,2282
+E1712,Antoine,Lagarde,Sales,Analyst,2018-06-19,2022-02-14,Unknown,Remote,190339,8565.73,500,,,1,4,1,1336
+E1702,Thierry,Diallo,Finance,Customer Success Manager,2016-03-19,2021-05-02,NaN,Lyon,128400,6321.65,1200,,,1,3,1,1870
+E1892,Gilles,Blanchet,Human Resources,Social Media Manager,2022-10-21,,Female,Montpellier,125414,3216.22,200,,,3,6,0,1109
+E1624,Sabine,Gillet,Marketing,HR Data Scientist,2024-04-17,2025-07-20,NaN,Bordeaux,173052,4579.71,500,4,Yes,8,2,1,459
+E1176,Victor,David,Engineering,Inside Sales Rep,2023-02-19,2025-01-27,Male,Montpellier,150619,4281.96,200,,No,10,10,1,708
+E1708,Guillaume,Lopez,Human Resources,VP of Sales,2023-06-04,,Unknown,Remote,215372,9457.42,1200,,,2,7,0,883
+E1996,François,Lombard,Human Resources,Brand Manager,2021-03-15,,Male,Bordeaux,151725,5159.15,0,5,No,5,10,0,1694
+E1831,Marcel,Mathieu,Finance,VP of Sales,2020-08-02,2025-09-10,Female,Nantes,189093,3916.15,500,,,9,7,1,1865
+E1949,Marc,Gros,Finance,QA Engineer,2018-01-22,,Unknown,Lyon,129128,5309.42,500,2,No,6,10,0,2842
+E1603,Inès,Alves,Unknown,Specialist,2016-02-01,2021-06-04,Unknown,Paris,179098,7295.13,0,5,No,6,3,1,1950
+E1284,Brigitte,Hervé,Finance,Compensation Analyst,2023-12-13,2025-03-08,NaN,Montpellier,61270,2603.47,0,,,9,3,1,451
+E1971,Joseph,Blanchet,Engineering,Associate,2024-04-03,,NaN,Nantes,113432,3780.16,200,5,No,8,10,0,579
+E1066,René,Ferrand,Finance,Data Scientist,2019-03-16,,Male,Paris,145832,6950.3,1200,5,No,3,9,0,2424
+E1562,Thibaut,Lebon,Human Resources,Compensation Analyst,2022-04-11,,Non-Binary,Remote,209615,10473.36,1200,3,Yes,4,1,0,1302
+E1721,Charles,Joly,Finance,Regional Sales Director,2018-01-17,2024-04-22,Non-Binary,Lyon,150940,6488.77,0,,No,2,9,1,2287
+E1054,Benoît,Giraud,Sales,Graphic Designer,2024-07-30,2025-08-04,Female,Bordeaux,187419,7664.42,1000,4,No,3,1,1,370
+E1510,Gérard,Colin,Sales,Payroll Specialist,2023-04-18,,Unknown,Bordeaux,179688,5965.05,1200,4,No,5,6,0,930
+E1807,Laure,Picard,Sales,Machine Learning Engineer,2019-04-17,2023-11-15,Female,Paris,58394,2570.48,200,3,No,6,6,1,1673
+E1577,Isaac,Marchand,Human Resources,HR Business Partner,2017-02-20,2020-09-20,Unknown,Paris,161055,6411.87,1000,,,10,3,1,1308
+E1251,Timothée,Meyer,Engineering,Customer Success Manager,2019-11-25,2022-11-07,NaN,Paris,85326,3739.49,200,,,10,10,1,1078
+E1592,Amélie,Fontaine,Engineering,HR Data Scientist,2024-02-17,,Non-Binary,Montpellier,179612,8524.45,1000,,,3,9,0,625
+E1060,Simone,Lebrun,Human Resources,Data Scientist,2020-06-12,2024-01-18,Unknown,Lyon,231169,9357.53,200,5,No,7,1,1,1315
+E1858,François,Muller,Sales,Sales Development Rep,2021-10-18,2023-05-11,NaN,Montpellier,215585,5443.45,0,1,No,4,7,1,570
+E1925,Margaret,Albert,Engineering,Talent Acquisition Specialist,2016-01-20,,Unknown,Montpellier,229532,8332.87,200,,,9,2,0,3575
+E1139,Julie,Dumas,Engineering,Talent Acquisition Specialist,2022-11-13,,Male,Paris,141247,3618.96,200,1,No,1,2,0,1086
+E1824,Grégoire,Menard,Sales,Inside Sales Rep,2016-11-06,,Female,Bordeaux,126039,2975.46,0,,,5,4,0,3284
+E1058,Élisabeth,Pasquier,Sales,Marketing Manager,2022-05-02,,Unknown,Nantes,154317,5641.84,500,,No,1,8,0,1281
+E1065,Océane,Foucher,Human Resources,VP of Sales,2022-05-05,,NaN,Paris,118215,5446.37,1200,2,No,6,4,0,1278
+E1552,Robert,Cohen,Human Resources,VP of Sales,2024-03-26,2025-10-18,Unknown,Nantes,144839,4350.37,1000,4,No,5,10,1,571
+E1260,Céline,Payet,Human Resources,Customer Success Manager,2024-10-19,,Non-Binary,Remote,49873,1006.33,0,1,No,10,1,0,380
+E1067,Gilbert,David,Marketing,Solutions Engineer,2023-02-10,,Unknown,Lyon,187677,8099.84,1200,5,No,7,3,0,997
+E1727,Agathe,Bouvier,Engineering,Coordinator,2024-04-18,,Female,Bordeaux,59167,1651.52,1000,5,No,10,5,0,564
+E1430,Franck,Chauvet,Human Resources,Specialist,2022-05-23,,NaN,Bordeaux,83951,3589.11,200,3,No,6,7,0,1260
+E1815,Gérard,Lopez,Human Resources,HR Business Partner,2019-10-29,,Female,Remote,184059,4908.79,500,1,Yes,8,10,0,2197
+E1945,Guillaume,Vidal,Human Resources,DevOps Engineer,2022-01-24,,NaN,Bordeaux,196850,9820.41,200,3,No,9,8,0,1379
+E1943,Thomas,Mace,Human Resources,Compensation Analyst,2017-01-20,2024-04-16,Non-Binary,Paris,152802,4966.35,1000,,,4,5,1,2643
+E1285,Jérôme,Allain,Finance,Talent Acquisition Specialist,2019-06-17,,Unknown,Remote,144342,4013.96,200,,Yes,7,4,0,2331
+E1498,Christiane,Chauvet,Finance,Inside Sales Rep,2021-09-26,,NaN,Remote,130683,5377.54,1200,3,No,2,6,0,1499
+E1033,Emmanuel,Lefebvre,Engineering,Content Strategist,2019-03-02,,Male,Bordeaux,55532,2685.41,1000,,,2,3,0,2438
+E1571,Cécile,Valentin,Unknown,People Analyst,2017-12-31,2023-09-30,Non-Binary,Paris,249926,9207.68,1000,1,No,6,1,1,2099
+E1544,Raymond,Gosselin,Unknown,Backend Engineer,2021-07-10,,Unknown,Paris,114440,3199.37,200,3,No,10,9,0,1577
+E1805,Thierry,Maury,Sales,Customer Success Manager,2016-08-25,2023-11-13,Unknown,Bordeaux,230302,6841.89,200,4,No,7,5,1,2636
+E1384,Noémi,Blin,Human Resources,Coordinator,2016-02-14,2017-04-07,NaN,Remote,211494,9044.85,200,1,No,3,7,1,418
+E1459,Grégoire,Guillou,Human Resources,Senior Accountant,2021-06-06,,Female,Paris,111491,5041.42,1200,,No,4,3,0,1611
+E1497,Aimée,Lopez,Human Resources,Accountant,2024-03-30,,Female,Lyon,121040,2561.49,1000,1,No,3,3,0,583
+E1048,Georges,Maillot,Finance,HR Data Scientist,2017-12-20,,Female,Lyon,124476,5980.93,1000,,No,5,1,0,2875
+E1006,Renée,Maillard,Engineering,Account Executive,2018-03-26,,Male,Lyon,95931,4036.68,200,3,No,8,3,0,2779
+E1191,Gérard,Guyon,Engineering,HR Coordinator,2020-02-12,,Female,Lyon,126978,3560.33,200,5,No,9,3,0,2091
+E1738,Maryse,Robert,Human Resources,Frontend Engineer,2024-09-10,,NaN,Remote,240492,8222.86,500,3,Yes,7,5,0,419
+E1369,Joséphine,Laine,Finance,Graphic Designer,2021-12-06,,Non-Binary,Bordeaux,170146,3525.52,1000,1,No,10,7,0,1428
+E1118,Joséphine,Gonzalez,Marketing,Inside Sales Rep,2022-02-02,2025-08-19,Non-Binary,Montpellier,159596,4220.4,500,3,Yes,6,8,1,1294
+E1363,Adrienne,Ollivier,Sales,Talent Acquisition Specialist,2021-04-30,,Non-Binary,Nantes,231200,11261.4,0,,,4,9,0,1648
+E1214,Michel,Launay,Sales,People Analyst,2021-08-12,2024-03-04,Non-Binary,Montpellier,188261,4149.95,0,,No,4,1,1,935
+E1951,Laurent,Bailly,Finance,VP of Sales,2023-06-18,2025-04-11,Unknown,Paris,92976,4037.47,1200,3,No,2,1,1,663
+E1825,Bernard,Lemaire,Human Resources,FP&A Manager,2021-12-26,2023-07-12,Female,Bordeaux,124684,6152.45,200,5,Yes,7,7,1,563
+E1754,Julie,Verdier,Sales,Data Scientist,2023-05-07,,NaN,Lyon,217193,5348.57,500,4,No,7,7,0,911
+E1037,Marthe,Fleury,Sales,People Analyst,2016-02-12,,NaN,Bordeaux,54721,1172.8,500,5,No,1,7,0,3552
+E1969,Alice,Bruneau,Marketing,Accountant,2020-01-14,,Unknown,Paris,241335,8626.12,200,,Yes,1,8,0,2120
+E1089,Nathalie,Grenier,Marketing,Graphic Designer,2022-03-04,,Unknown,Montpellier,183787,8629.79,200,1,No,9,6,0,1340
+E1898,Alphonse,Roussel,Engineering,Customer Success Manager,2019-12-29,2025-10-21,Unknown,Lyon,198140,7715.63,200,,No,7,5,1,2123
+E1008,Timothée,Labbé,Engineering,Coordinator,2020-07-03,,Female,Lyon,75016,2244.55,200,1,Yes,9,9,0,1949
+E1886,Astrid,Marty,Engineering,VP of Sales,2017-04-19,,Non-Binary,Nantes,100306,4448.81,1000,,No,10,1,0,3120
+E1408,Alexandrie,Lambert,Marketing,Senior Accountant,2024-01-26,2025-08-04,Non-Binary,Bordeaux,53299,1300.28,1000,,,9,6,1,556
+E1201,Margaux,Lecomte,Finance,Accountant,2024-03-12,2025-07-06,Male,Montpellier,213272,6324.47,200,,No,10,3,1,481
+E1165,Martine,Lesage,Sales,Account Executive,2021-05-22,,Unknown,Bordeaux,176149,5294.44,0,3,No,6,9,0,1626
+E1358,Marthe,Vincent,Marketing,Data Scientist,2023-02-20,,Unknown,Remote,133141,2981.87,1200,5,Yes,3,8,0,987
+E1868,Étienne,Chauveau,Finance,Content Strategist,2020-12-31,2024-12-31,NaN,Nantes,235262,8016.81,1000,3,Yes,6,6,1,1461
+E1079,Vincent,Chartier,Sales,HR Coordinator,2015-12-14,,Unknown,Lyon,209519,7379.98,1200,,,10,3,0,3612
+E1511,Patricia,Gomes,Sales,Sales Manager,2021-07-01,2024-03-19,Unknown,Nantes,173512,7213.93,1200,3,No,2,4,1,992
+E1938,Susan,Marques,Unknown,Senior Accountant,2018-10-21,,Unknown,Paris,159949,7258.67,0,1,No,9,3,0,2570
+E1765,Benjamin,Lucas,Finance,HR Coordinator,2019-09-27,2022-03-19,NaN,Remote,174533,6760.21,500,,,1,10,1,904
+E1895,Martin,Payet,Engineering,Accountant,2018-12-18,,Unknown,Lyon,91681,3681.94,0,,,1,6,0,2512
+E1709,Pénélope,Neveu,Human Resources,Machine Learning Engineer,2019-06-28,,Unknown,Bordeaux,164387,5256.62,0,,,2,1,0,2320
+E1675,Laure,Gaillard,Sales,Senior Software Engineer,2023-10-13,,NaN,Nantes,43939,924.62,1000,3,No,10,1,0,752
+E1626,Théophile,Chevallier,Human Resources,Solutions Engineer,2016-03-29,,Female,Paris,188361,7871.57,500,5,Yes,10,10,0,3506
+E1952,Christine,Grondin,Marketing,Account Executive,2024-07-16,2025-08-28,Non-Binary,Nantes,49556,1434.48,500,1,No,9,5,1,408
+E1804,Sylvie,Leduc,Sales,Sales Development Rep,2023-03-23,2024-04-09,Non-Binary,Montpellier,42228,1128.38,1000,5,No,3,6,1,383
+E1029,Alexandria,Dias,Marketing,Sales Development Rep,2021-04-08,,Male,Paris,160479,5207.42,1000,1,No,4,9,0,1670
+E1937,Eugène,Auger,Engineering,Technical Lead,2022-01-11,2025-05-13,Unknown,Montpellier,243408,5178.96,0,5,No,1,10,1,1218
+E1375,Nathalie,Fournier,Human Resources,Sales Development Rep,2020-12-31,2024-12-04,Male,Remote,231901,8021.21,1000,1,No,4,5,1,1434
+E1700,Aimé,Weber,Engineering,DevOps Engineer,2021-06-13,,Unknown,Lyon,238919,11195.9,1200,,No,8,10,0,1604
+E1028,Anastasie,Laporte,Marketing,People Analyst,2023-12-19,,Unknown,Montpellier,196295,4303.49,200,5,No,10,4,0,685
+E1063,Isabelle,Dupuis,Engineering,Marketing Manager,2020-09-26,2023-09-12,Female,Nantes,187136,6704.1,500,3,No,4,4,1,1081
+E1099,Arnaude,Hubert,Finance,Internal Auditor,2024-07-11,,Male,Bordeaux,229536,9645.57,200,1,No,6,10,0,480
+E1911,Noël,Gallet,Sales,People Analyst,2020-07-18,,Male,Montpellier,164801,4021.23,0,1,Yes,9,1,0,1934
+E1046,Susanne,Paul,Sales,Associate,2021-10-24,,Female,Nantes,134968,3539.55,0,1,No,8,6,0,1471
+E1164,Claudine,Valette,Engineering,Senior Accountant,2018-11-04,,Male,Montpellier,116459,3390.87,200,5,No,10,10,0,2556
+E1994,Lucas,Fabre,Human Resources,Analyst,2016-08-05,,Unknown,Nantes,206490,4930.88,0,1,Yes,7,9,0,3377
+E1623,Marianne,Bigot,Engineering,Analyst,2016-10-25,,NaN,Nantes,41268,944.32,1200,3,No,10,9,0,3296
+E1946,Jules,Bourgeois,Engineering,DevOps Engineer,2024-08-06,2025-09-05,Female,Paris,117052,3940.87,500,2,No,5,1,1,395
+E1550,Marcel,Daniel,Human Resources,VP of Sales,2018-10-31,,Female,Montpellier,97951,4421.4,500,,No,2,8,0,2560
+E1228,Hélène,Charrier,Marketing,Controller,2019-12-17,,Male,Bordeaux,75764,2687.09,1000,,,2,6,0,2148
+E1612,Zacharie,Perrin,Human Resources,Controller,2022-10-12,,Unknown,Bordeaux,221228,9476.9,200,5,No,4,10,0,1118
+E1671,Valérie,Samson,Finance,Machine Learning Engineer,2021-06-26,2022-09-19,Male,Bordeaux,134245,4920.55,200,3,Yes,7,1,1,450
+E1302,Olivie,Raynaud,Sales,Controller,2023-01-17,,Female,Bordeaux,214993,5176.09,200,2,No,6,6,0,1021
+E1602,Anouk,Techer,Unknown,FP&A Manager,2020-10-30,,Unknown,Bordeaux,139625,6123.96,1200,5,No,1,6,0,1830
