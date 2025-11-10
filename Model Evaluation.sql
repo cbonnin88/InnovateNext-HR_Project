@@ -1,0 +1,1 @@
+SELECT * FROM ML.EVALUATE(MODEL `sql-practice-460514.hr_data_mini.attrition_model`)
