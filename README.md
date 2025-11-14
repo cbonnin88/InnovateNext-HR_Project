@@ -82,5 +82,3 @@ This project is broken down into 5 distinct phases, mirroring a real-world analy
   - Interactive filters for Department and Role.
 
   - Charts showing attrition drivers.
-
-  - A "Top At-Risk Employees" table, populated by the live BQML prediction query.
